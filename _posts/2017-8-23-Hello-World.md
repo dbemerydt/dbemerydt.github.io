@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome
+title:
 ---
 
 ![photo](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/18034215_1330621637013624_6296963631498004505_n.jpg?oh=e05b0606379d62b137e568d4ebfca0fa&oe=5A601CB0)
