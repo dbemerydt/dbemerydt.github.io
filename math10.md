@@ -4,7 +4,7 @@ title: Math 10
 permalink: /math10/
 ---
 
-![photo](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/20620990_10213172822137931_7938389337198971296_n.jpg?oh=a061a0ea951557e40eb6951652e242b4&oe=5A2679E5)
+![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Course Materials
 
