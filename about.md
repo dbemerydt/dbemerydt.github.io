@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Why I'm here
 
-While earning my MS in applied mathematics, I do blatantly fun research with the [Computational Story Lab](http://uvm.edu/storylab), a team that works within the [Complex Systems Center](http://uvm.edu/~cmplxsys). My work on the team is mostly in analysis of the global climate and earth system.
+While earning my MS in applied mathematics, I do blatantly fun research with the [Computational Story Lab](http://uvm.edu/storylab), a team that works within the [Complex Systems Center](http://uvm.edu/~cmplxsys). My work on the team mainly focuses on using data science and mathematics to extract a deeper understanding of the global climate and earth system.
 
 ### A few more quick facts from which a bigger picture can be extrapolated
 
