@@ -18,7 +18,7 @@ While earning my MS in applied mathematics, I do blatantly fun research with the
 
 - I spent another summer helping teach astronomy to driven high school seniors in New Hampshire
 
-- I race for the (UVM Cycling Team)[http://uvm.edu/~cycling], for whom I've competed in collegiate national downhill and cross country MTB races. I've also done a 24-hour MTB race, and will do another upon the next opportunity.
+- I race for the [UVM Cycling Team](http://uvm.edu/~cycling), for whom I've competed in collegiate national downhill and cross country MTB races. I've also done a 24-hour MTB race, and will do another upon the next opportunity.
 
 ### Contact me
 
