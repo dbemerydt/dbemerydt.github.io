@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SCRaPS
+title: SCRaPS - Student Complexity Research and Pizza Seminars
 permalink: /scraps/
 ---
 
