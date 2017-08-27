@@ -3,6 +3,7 @@ layout: page
 title: SCRaPS: Student Complexity Research and Pizza Seminars
 permalink: /scraps/
 ---
+
 ###
 ![photo](https://pbs.twimg.com/profile_banners/1931116441/1503791348/1500x500)
 
