@@ -8,11 +8,11 @@ permalink: /scraps/
 
 SCRaPS is a biweekly gathering exclusive to students, undergrad and grad, for discussions about research, the universe, and everything. Also, we eat free pizza.
 
-###Fall 2017 Presenters
+### Fall 2017 Presenters
 
 We'll be holding SCRaPS every other Monday, starting on the 11th of September. Info on presentations will appear here.
 
-###9-11-2017- LITERALLY ALIENS
+### 9-11-2017- LITERALLY ALIENS
 
 ![photo](https://instagram.fbtv1-1.fna.fbcdn.net/t51.2885-15/e35/20393694_1584269158312023_6869180756883668992_n.jpg)
 
