@@ -7,11 +7,12 @@ permalink: /math10/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Announcement
-Assignments, quizzes, and office hours will all start next week. There won't be office hours this week, but email me if you want to meet to go over any concepts from the class.
+There will be no graded HW due Wednesday, as I just now got WebAssign up and working, and I think the notice is too short to assign something with a grade for Wednesday. If you have time, however, please try the practice problems linked in the current instructions.
 
 ### Current Instructions
-- Acquire textbook / WebAssign
-- (optional) Look over sections 4.2 and 4.3 (Measuring Angles and Right Triangle Trig)
+[Try these practice problems without a calculator (don't attempt to evaluate square roots, leave in terms of \pi, etc).](http://www.uvm.edu/~bfemery/math10/PracticeProbs8-5.pdf)
+These will not be graded, they are just for practice. I will upload my solutions tonight!
+  
 
 ### Course Materials
 
