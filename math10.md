@@ -21,4 +21,4 @@ These will not be graded, they are just for practice. I will upload my solutions
 
 [Tattoos on Math Video](https://www.youtube.com/watch?v=IxNb1WG_Ido)
 
-[My office location](http://www.uvm.edu/~bfemery/FarrellHallLocation.png)
+[My office location](http://www.uvm.edu/~bfemery/math10/FarrellHallLocation.png)
