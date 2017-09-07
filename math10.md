@@ -8,6 +8,7 @@ permalink: /math10/
 
 ### Announcement
 Thursday office hours have been moved permanently to Terrill 308 (see updated syllabus).
+
 Quiz Friday on arc length, sector areas, right triangle trig.
 
 ### Current Instructions
