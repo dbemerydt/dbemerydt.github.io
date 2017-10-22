@@ -12,7 +12,7 @@ Thursday office hours have been moved permanently to Terrill 308 (see updated sy
 Quiz Friday on arc length, sector areas, right triangle trig.
 
 ### Current Instructions
-[WebAssignment ](http://www.webassign.net) due Friday (the 20th) before class.
+[WebAssignment ](http://www.webassign.net) due Monday (the 23rd) before class.
   
 ### Course Materials
 
