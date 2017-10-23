@@ -6,20 +6,12 @@ permalink: /math10/
 
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
-### Announcement
-Thursday office hours have been moved permanently to Terrill 308 (see updated syllabus).
-
-Quiz Friday on arc length, sector areas, right triangle trig.
-
 ### Current Instructions
 [WebAssignment ](http://www.webassign.net) due Monday (the 23rd) before class.
 
 ### Midterm Results
 They're up. Check out the [solution key](https://uvm.edu/~bfemery/math10midtermsoln.pdf) and distribution below.
 ![photo](https://uvm.edu/~bfemery/math10midtermgrades.png)
-
-
-
   
 ### Course Materials
 
