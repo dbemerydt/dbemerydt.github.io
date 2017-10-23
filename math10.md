@@ -13,6 +13,11 @@ Quiz Friday on arc length, sector areas, right triangle trig.
 
 ### Current Instructions
 [WebAssignment ](http://www.webassign.net) due Monday (the 23rd) before class.
+
+### Midterm Results
+They're up. Here's the distribution.
+![photo](https://uvm.edu/~bfemery/math10midtermgrades.png)
+
   
 ### Course Materials
 
