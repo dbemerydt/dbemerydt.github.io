@@ -10,7 +10,13 @@ SCRaPS is a biweekly gathering exclusive to students, undergrad and grad, for di
 
 ### Fall 2017 Presenters
 
-We'll be holding SCRaPS every other Monday, starting on the 11th of September. Info on presentations will appear here.
+We'll be holding SCRaPS every other Wednesday, starting on the 11th of September. Info on presentations will appear here.
+
+### 10-25-2017 Ada Morse
+
+![photo](http://uvm.edu/~bfemery/newtruncdodec3.jpg)
+
+"Self-assembling DNA nanostructures can solve complex computational problems and have the potential for revolutionary biomedical applications. They also generate hard combinatorial and topological problems requiring new mathematical theories to solve. This talk  will focus on DNA origami and new theories of knots in graphs arising from, and applied to, the origami design of self-assembling nanostructures."
 
 ### 10-11-2017 Andy Klem
 
