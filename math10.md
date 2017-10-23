@@ -17,6 +17,7 @@ Quiz Friday on arc length, sector areas, right triangle trig.
 ### Midterm Results
 They're up. Here's the distribution.
 ![photo](https://uvm.edu/~bfemery/math10midtermgrades.png)
+[Midterm Exam Solution Key](https://uvm.edu/~bfemery/math10midtermsoln.pdf)
 
   
 ### Course Materials
