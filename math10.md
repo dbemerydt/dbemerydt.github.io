@@ -7,7 +7,7 @@ permalink: /math10/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Current Instructions
-[WebAssignment ](http://www.webassign.net) due Monday (the 23rd) before class.
+[WebAssignment 9](http://www.webassign.net) due Friday (the 27th) before class.
 
 ### Midterm Results
 They're up. Check out the [solution key](https://uvm.edu/~bfemery/math10midtermsoln.pdf) and distribution below.
