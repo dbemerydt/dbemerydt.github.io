@@ -19,6 +19,10 @@ They're up. Check out the [solution key](https://uvm.edu/~bfemery/math10midterms
 
 [Syllabus](http://www.uvm.edu/~bfemery/Math10Syllabus.pdf)
 
+[Notes on Rational Power Functions](http://www.uvm.edu/~bfemery/math10notes10-20.pdf)
+
 [Tattoos on Math Video](https://www.youtube.com/watch?v=IxNb1WG_Ido)
 
 [My office location](http://www.uvm.edu/~bfemery/math10/FarrellHallLocation.png)
+
+
