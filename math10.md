@@ -7,7 +7,7 @@ permalink: /math10/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Current Instructions
-[WebAssignment 9](http://www.webassign.net) due Friday (the 27th) before class. Use a unit circle (below) to do it, you'll be provided one on any quiz.
+Prepare for Friday's quiz by reviewing notes from Monday and making sure you're comfortable with the most recent [WebAssignment](http://webassign.net).
 
 ![photo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/720px-Unit_circle_angles_color.svg.png)
 
