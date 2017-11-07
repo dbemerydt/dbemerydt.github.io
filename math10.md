@@ -9,8 +9,6 @@ permalink: /math10/
 ### Current Instructions
 New assignment: ["Complex values are real values, I've seen them"](http://webassign.net)  due Friday. Use it as preparation for quiz.
 
-![photo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/720px-Unit_circle_angles_color.svg.png)
-
 ### Midterm Results
 They're up. Check out the [solution key](https://uvm.edu/~bfemery/math10midtermsoln.pdf) and distribution below.
 ![photo](https://uvm.edu/~bfemery/math10midtermgrades.png)
