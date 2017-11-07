@@ -12,6 +12,22 @@ SCRaPS is a biweekly gathering exclusive to students, undergrad and grad, for di
 
 We'll be holding SCRaPS every other Wednesday, starting on the 11th of September. Info on presentations will appear here.
 
+### 11-08-2017 Sean Beaulieu
+
+![photo](http://uvm.edu/~bfemery/evilstarfish.jpg)
+
+"Despite​ ​their​ ​recent​ ​success,​ ​the​ ​systems​ ​that​ ​populate​ ​the​ ​machine​ ​learning​ ​literature​ ​remain 
+brittle,​ ​fragile​ ​creatures.​ ​In​ ​highly​ ​sterilized​ ​environments​ ​they’ve​ ​proven​ ​remarkably​ ​proficient, 
+and—like​ ​many​ ​optimized​ ​systems,​ ​ranging​ ​from​ ​calculators​ ​to​ ​airplanes—occasionally​ ​dwarf​ ​the 
+abilities​ ​of​ ​humans,​ ​but​ ​fail​ ​catastrophically​ ​when​ ​exposed​ ​to​ ​problems​ ​and​ ​environments​ ​not​ ​seen 
+during​ ​training.​ ​Further​ ​training​ ​can​ ​rectify​ ​this,​ ​but​ ​will​ ​invariably​ ​replace​ ​or​ ​degrade​ ​previously 
+obtained​ ​knowledge​ ​unless​ ​the​ ​system​ ​is​ ​carefully​ ​engineered​ ​to​ ​preserve​ ​certain​ ​functions.​ ​This 
+requires​ ​explicitly​ ​identifying​ ​the​ ​features​ ​that​ ​are​ ​most​ ​important​ ​for​ ​high​ ​performance​ ​on​ ​one​ ​task 
+and​ ​protecting​ ​them​ ​from​ ​degradation​ ​while​ ​training​ ​for​ ​another.​ ​The​ ​model​ ​I​ ​propose​ ​is​ ​one​ ​in 
+which​ ​these​ ​salient​ ​features​ ​are​ ​discovered​ ​by​ ​evolutionary​ ​selection​ ​and​ ​Bayesian​ ​inference,​ ​and 
+culturally​ ​transmitted​ ​between​ ​populations​ ​of​ ​specialists​ ​by​ ​an​ ​evolved​ l​ ingua​ ​franca​ ​such​ ​that​ ​they 
+can​ ​be​ ​woven​ ​together​ ​to​ ​produce​ ​multi-tasking,​ ​generalist​ ​agents."
+
 ### 10-25-2017 Ada Morse
 
 ![photo](http://uvm.edu/~bfemery/newtruncdodec3.jpg)
