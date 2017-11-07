@@ -7,7 +7,7 @@ permalink: /math10/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Current Instructions
-Prepare for Friday's quiz by reviewing notes from Monday and making sure you're comfortable with the most recent [WebAssignment](http://webassign.net).
+New assignment: ["Complex values are real values, I've seen them"](http://webassign.net)  due Friday. Use it as preparation for quiz.
 
 ![photo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/720px-Unit_circle_angles_color.svg.png)
 
