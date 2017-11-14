@@ -7,7 +7,7 @@ permalink: /math10/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Current Instructions
-New assignment: ["Complex values are real values, I've seen them"](http://webassign.net)  due Friday. Use it as preparation for quiz.
+New assignment: ["Step into the chamber, get hyperbolic"](http://webassign.net) due Friday. The take-home conic sections challenge will be passed out on Wednesday (due Monday when we get back). NO CLASS ON FRIDAY, however, if you'd like to meet during the normal class period on Friday, let me know.
 
 ### Midterm Results
 They're up. Check out the [solution key](https://uvm.edu/~bfemery/math10midtermsoln.pdf) and distribution below.
