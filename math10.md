@@ -7,11 +7,7 @@ permalink: /math10/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Current Instructions
-New assignment: ["Step into the chamber, get hyperbolic"](http://webassign.net) due Friday. 
-
-Quiz 8: ["Conic Section Take-Home Challenge"](http://uvm.edu/~bfemery/math010quiz8.pdf) due Monday when we return from the week off.
-
-NO CLASS ON FRIDAY, however, if you'd like to meet on Friday to review anything, let me know.
+New assignment: ["Bundle up for the polar vorteX"](http://webassign.net) due Monday (the 3rd). 
 
 ### Midterm Results
 They're up. Check out the [solution key](https://uvm.edu/~bfemery/math10midtermsoln.pdf) and distribution below.
