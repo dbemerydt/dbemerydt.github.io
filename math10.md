@@ -7,7 +7,9 @@ permalink: /math10/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Current Instructions
-New assignment: ["Bundle up for the polar vorteX"](http://webassign.net) due Monday (the 3rd). 
+New assignment: ["Bundle up for the polar vorteX"](http://webassign.net) due Monday (the 3rd).
+
+The practice final exam is also up. [Let's check it out!](http://uvm.edu/~bfemery/Math010PracticeFinal.pdf)
 
 ### Midterm Results
 They're up. Check out the [solution key](https://uvm.edu/~bfemery/math10midtermsoln.pdf) and distribution below.
