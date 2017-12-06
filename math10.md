@@ -7,7 +7,7 @@ permalink: /math10/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Circle_cos_sin.gif)
 
 ### Current Instructions
-New assignment: ["Bundle up for the polar vorteX"](http://webassign.net) due Monday (the 3rd).
+New assignment: ["stop. parametime."](http://webassign.net) due Monday (the 11th), but you should probably get it over with earlier than that.
 
 The practice final exam is also up. [Let's check it out!](http://uvm.edu/~bfemery/Math010PracticeFinal.pdf)
 
