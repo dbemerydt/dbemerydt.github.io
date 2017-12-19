@@ -7,7 +7,7 @@ permalink: /research/
 ![photo](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/21034721_10155644918984931_378466878542908145_n.jpg?oh=c59dda3fa756cdc365d2cbf809a04520&oe=5AC49294)
 
 ### Paper Drafts
-[Climatic regime shifts with Teletherm Flickering](http://www.uvm.edu/~bfemery/Emery-TelethermFlickering-Paper.pdf)
+[Climatic regime shifts with Teletherm Flickering](http://www.uvm.edu/~bfemery/Emery-TeleFlickering-Paper.pdf)
 
 [Emojropy](http://www.uvm.edu/~bfemery/Emery-Emojropy.pdf)
 
