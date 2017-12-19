@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-![photo](https://scontent.fbtv1-1.fna.fbcdn.net/v/t1.0-9/21034721_10155644918984931_378466878542908145_n.jpg?oh=c1253476ff34b5a623df8347fe10776b&oe=5A265E94)
+![photo](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/21034721_10155644918984931_378466878542908145_n.jpg?oh=c59dda3fa756cdc365d2cbf809a04520&oe=5AC49294)
 
 
 [SAMSI Climate Workshop Poster](http://www.uvm.edu/~bfemery/Flickeringposter.pdf)
