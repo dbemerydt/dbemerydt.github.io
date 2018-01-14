@@ -4,7 +4,7 @@ title: Math 19
 permalink: /math19/
 ---
 
-![photo](https://i.imgur.com/4SH9dph.gif)
+![photo](https://upload.wikimedia.org/wikipedia/commons/3/34/Sec2tan.gif)
 
 ### Current Instructions
 Get amped.
