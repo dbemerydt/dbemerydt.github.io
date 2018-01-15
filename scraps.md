@@ -6,13 +6,23 @@ permalink: /scraps/
 
 ![photo](https://pbs.twimg.com/profile_banners/1931116441/1503791348/1500x500)
 
-SCRaPS is a biweekly gathering exclusive to students, undergrad and grad, for discussions about research, the universe, and everything. Also, we eat free pizza. 
+SCRaPS is a biweekly-ish gathering exclusive to students, undergrad and grad, for discussions about research, the universe, and everything. Also, we eat free pizza. 
 
 ### Spring 2018 Schedule
 
+If you'd like to request changes or additions to this schedule, please email bfemery@uvm.edu or scraps@uvm.edu.
+
 | Date | Speaker |
 | --- | --- |
-| 1/19 | Ben Emery & Melissa Seib |
+| 1/26 | Ben Emery & Melissa Seib |
+| 2/16 | David Dewhurst |
+| 2/23 | Sam Kreigman |
+| 3/2 | Ada Morse |
+| 3/23 | Colin Van Oort |
+| 3/30 | Josh Minot |
+| 4/13 | Collin Capelle |
+| 4/20 | Sarah Howerter |
+
 
 <!---
 ### Fall 2017 Presenters
