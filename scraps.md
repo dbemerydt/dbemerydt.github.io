@@ -14,7 +14,7 @@ If you'd like to request changes or additions to this schedule, please email bfe
 
 | Date | Speaker |
 | --- | --- |
-| 1/26 | Ben Emery & Melissa Seib |
+| 1/26 | Ben Emery |
 | 2/16 | David Dewhurst |
 | 2/23 | Sam Kreigman |
 | 3/2 | Ada Morse |
