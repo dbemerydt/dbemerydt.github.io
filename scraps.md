@@ -14,14 +14,15 @@ If you'd like to request changes or additions to this schedule, please email bfe
 
 | Date | Speaker |
 | --- | --- |
-| 1/26 | Ben Emery |
-| 2/16 | David Dewhurst |
-| 2/23 | Sam Kreigman |
-| 3/2 | Ada Morse |
-| 3/23 | Colin Van Oort |
-| 3/30 | Josh Minot |
-| 4/13 | Collin Capelle |
-| 4/20 | Sarah Howerter |
+| 1/23 | Ben Emery |
+| 2/6 | David Dewhurst |
+| 2/13 | Morgan Frank | 
+| 2/20 | Sam Kreigman |
+| 3/6 | Ada Morse |
+| 3/20 | Colin Van Oort |
+| 4/3 | Josh Minot |
+| 4/17 | Collin Capelle |
+| 5/1 | Sarah Howerter |
 
 
 <!---
