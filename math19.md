@@ -7,7 +7,8 @@ permalink: /math19/
 ![photo](https://upload.wikimedia.org/wikipedia/commons/3/34/Sec2tan.gif)
 
 ### Current Instructions
-Find the asymptotes of the function (x^{2}+8x+12)/(x+4)
+Find the asymptotes of the function (x^2+8x+12)/(x+4)
+
 Section 3.1 Problems 1 - 10, 13,14 (Assigned Monday)
 
 
