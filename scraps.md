@@ -24,7 +24,6 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | 4/10 | David Dewhurst |
 | 4/17 | Collin Capelle |
 | 5/1 | Sarah Howerter |
-| 5/8 | David Dewhurst | 
 
 
 <!---
