@@ -4,7 +4,7 @@ title: Math 19
 permalink: /math19/
 ---
 
-![photo](https://upload.wikimedia.org/wikipedia/commons/3/34/Sec2tan.gif)
+![photo](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
 
 ## Current Instructions
 
