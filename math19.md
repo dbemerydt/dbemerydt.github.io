@@ -8,6 +8,10 @@ permalink: /math19/
 
 ## Current Instructions
 
+### In Class 2/7
+[Practice Exam Solution](http://uvm.edu/~bfemery/Math019PracticeExam1Soln.pdf)
+[In Class Work](http://uvm.edu/~bfemery/Math019ICW02-07.pdf)
+
 ### Exam 1 Practice
 [Work on it now, bring questions to class, or work on it in class and ask me questions.](http://uvm.edu/~bfemery/Math019PracticeExam1.pdf)
 
