@@ -10,6 +10,7 @@ permalink: /math19/
 
 ### In Class 2/7
 [Practice Exam Solution](http://uvm.edu/~bfemery/Math019PracticeExam1Soln.pdf)
+
 [In Class Work](http://uvm.edu/~bfemery/Math019ICW02-07.pdf)
 
 ### Exam 1 Practice
