@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Exam Prep
+Make sure you are comfortable with the practice exam questions and the in-class work from this week. [Check your answers to the Monday classwork here.](http://uvm.edu/~bfemery/Math019ICW02-05soln.pdf)
+
 ### In Class 2/7
 [Practice Exam Solution](http://uvm.edu/~bfemery/Math019PracticeExam1Soln.pdf)
 
