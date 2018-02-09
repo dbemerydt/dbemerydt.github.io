@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Video for 2/12
+[Watch this video for Monday's class.](https://www.youtube.com/watch?v=S0_qX4VJhMQ) When we get started next week, we'll dive right into practice based on the video.
+
 ### Exam Prep
 Make sure you are comfortable with the practice exam questions and the in-class work from this week. [Check your answers to the Monday classwork here.](http://uvm.edu/~bfemery/Math019ICW02-05soln.pdf)
 
