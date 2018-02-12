@@ -8,8 +8,10 @@ permalink: /math19/
 
 ## Current Instructions
 
-### Video for 2/14
-[Watch this video for Wednesday's class.](https://www.youtube.com/watch?v=YG15m2VwSjA) Coming up on Wednesday: product rule and chain rule extravaganza.
+### Video for 2/14 & Practice Problems
+[Watch this video for Wednesday's class.](https://www.youtube.com/watch?v=YG15m2VwSjA) Coming up on Wednesday: product rule and chain rule extravaganza. If you want to practice at home, try finding the derivatives of the following functions.
+
+![photo](http://latex.codecogs.com/svg.latex?f%28x%29%3Dx%5E%7B5%7D%2B3x%5E%7B2%7D%2Bx),![photo](http://latex.codecogs.com/svg.latex?g%28x%29%3Dx%5E%7B2%7D%5Ccos%28x%29),![photo](http://latex.codecogs.com/svg.latex?h%28x%29%3D%5Csin%28x%5E%7B3%7D%29)
 
 ### Video for 2/12
 [Watch this video for Monday's class.](https://www.youtube.com/watch?v=S0_qX4VJhMQ) When we get started next week, we'll dive right into practice based on the video.
