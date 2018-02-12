@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Video for 2/14
+[Watch this video for Wednesday's class.](https://www.youtube.com/watch?v=YG15m2VwSjA) Coming up on Wednesday: product rule and chain rule extravaganza.
+
 ### Video for 2/12
 [Watch this video for Monday's class.](https://www.youtube.com/watch?v=S0_qX4VJhMQ) When we get started next week, we'll dive right into practice based on the video.
 
