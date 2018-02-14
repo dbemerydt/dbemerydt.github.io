@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Classwork for 2/14
+[Here are a bunch of practice derivates.](http://www.uvm.edu/~bfemery/Math019ICW02-14.pdf) Check it out!
+
 ### Video for 2/14 & Practice Problems
 [Watch this video for Wednesday's class.](https://www.youtube.com/watch?v=YG15m2VwSjA) Coming up on Wednesday: product rule and chain rule extravaganza. If you want to practice at home, try finding the derivatives of the following functions.
 
