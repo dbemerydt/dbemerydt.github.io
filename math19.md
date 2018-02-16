@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Prepare for Quiz 2/16
+[Here are the solutions to the practice derivatives](http://www.uvm.edu/~bfemery/IMG_4105.JPG)
+
 ### Classwork for 2/14
 [Here are a bunch of practice derivates.](http://www.uvm.edu/~bfemery/Math019ICW02-14.pdf) Check it out!
 
