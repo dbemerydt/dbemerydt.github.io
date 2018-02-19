@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Video for 2/21
+[Check out this video on exponential derivatives.](https://www.youtube.com/watch?v=m2MIpDrF7Es&index=5&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 ### Prepare for Quiz 2/16
 [Here are the solutions to the practice derivatives](http://www.uvm.edu/~bfemery/IMG_4105.JPG)
 
