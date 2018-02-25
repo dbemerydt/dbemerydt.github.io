@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Reading for 2/26
+Please read through section 4.5 in the Lial textbook, and try to work through the provided examples.
+
 ### Video for 2/21
 [Check out this video on exponential derivatives.](https://www.youtube.com/watch?v=m2MIpDrF7Es&index=5&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
