@@ -17,8 +17,8 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | ---- | --------------- |
 | 1/23 |  Ben Emery      |
 | 2/20 |  Sam Kreigman   |
+| 2/27 |  Morgan Frank   |
 | 3/6  |  Ada Morse      |
-| 3/13 |  Morgan Frank   |
 | 3/20 |  Colin Van Oort |
 | 3/27 |  Jack Felag     |
 | 4/3  |  Josh Minot     |
