@@ -17,7 +17,6 @@ Please read through section 4.5 in the Lial textbook, and try to work through th
 ### Prepare for Quiz 2/16
 [Here are the solutions to the practice derivatives](http://www.uvm.edu/~bfemery/IMG_4105.JPG)
 
-{% comment %} 
 ### Classwork for 2/14
 [Here are a bunch of practice derivates.](http://www.uvm.edu/~bfemery/Math019ICW02-14.pdf) Check it out!
 
@@ -56,7 +55,6 @@ Section 3.1 Problems 11, 12, 47, 50
 Find the asymptotes of the function (x^2+8x+12)/(x+4)
 
 Section 3.1 Problems 1 - 10, 13,14 (Assigned Monday)
-{% endcomment %}
 
 
 
