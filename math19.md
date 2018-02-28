@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Solutions to Classwork
+[Here are my solutions to the classwork from Monday.](http://uvm.edu/~bfemery/IMG_4132.JPG)
+
 ### Video for 2/28
 [This video returns to the concept of limits, with our new knowledge on derivatives applied.](https://www.youtube.com/watch?v=kfF40MiS7zA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=7)
 
