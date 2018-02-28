@@ -9,6 +9,9 @@ permalink: /math19/
 ## Current Instructions
 
 ### Solutions to Classwork
+[Here are my solutions to the classwork from Wednesday.](http://uvm.edu/~bfemery/IMG_4133.JPG)
+
+### Solutions to Classwork
 [Here are my solutions to the classwork from Monday.](http://uvm.edu/~bfemery/IMG_4132.JPG)
 
 ### Video for 2/28
