@@ -10,8 +10,16 @@ permalink: /math19/
 
 ### Quiz Practice
 Try finding the derivatives of the following problems:
+
 ![photo](http://latex.codecogs.com/gif.latex?f%28x%29%3D%5Ccos%28x%29%5Clog_%7B10%7D%28x%5E%7B2%7D%29)
 
+![photo](http://latex.codecogs.com/gif.latex?g%28x%29%3D%5Ccos%28%5Clog_%7B10%7D%28x%5E%7B2%7D%29%29)
+
+Find the following limits using L'Hôpital's Rule.
+
+![photo](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow%5Cinfty%7D%5Cfrac%7B4x%5E%7B3%7D&plus;3x%7D%7B2&plus;2x%5E%7B3%7D%7D)
+
+![photo](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow-1%7D%5Cfrac%7B%5Csin%28%5Cpi%20x%29%7D%7Bx%5E%7B2%7D-1%7D)
 
 ### Video for 2/28
 [This video returns to the concept of limits, with our new knowledge on derivatives applied.](https://www.youtube.com/watch?v=kfF40MiS7zA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=7)
