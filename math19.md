@@ -8,11 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
-### Solutions to Classwork
-[Here are my solutions to the classwork from Wednesday.](http://uvm.edu/~bfemery/IMG_4133.JPG)
-
-### Solutions to Classwork
-[Here are my solutions to the classwork from Monday.](http://uvm.edu/~bfemery/IMG_4132.JPG)
+### Quiz Practice
+Try finding the derivatives of the following problems:
+<script type="text/javascript" src="http://www.hostmath.com/Math/MathJax.js?config=OK"></script>
 
 ### Video for 2/28
 [This video returns to the concept of limits, with our new knowledge on derivatives applied.](https://www.youtube.com/watch?v=kfF40MiS7zA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=7)
@@ -72,3 +70,8 @@ Section 3.1 Problems 1 - 10, 13,14 (Assigned Monday)
 [Syllabus](http://www.uvm.edu/~bfemery/Math19Syllabus.pdf)
 
 [My office location](http://www.uvm.edu/~bfemery/math10/FarrellHallLocation.png)
+
+### Solutions to Classwork
+[Here are my solutions to the classwork from 2-28.](http://uvm.edu/~bfemery/IMG_4133.JPG)
+
+[Here are my solutions to the classwork from 2-26.](http://uvm.edu/~bfemery/IMG_4132.JPG)
