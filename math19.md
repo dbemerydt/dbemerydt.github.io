@@ -10,7 +10,8 @@ permalink: /math19/
 
 ### Quiz Practice
 Try finding the derivatives of the following problems:
-<script type="text/javascript" src="http://www.hostmath.com/Math/MathJax.js?config=OK"></script>
+![photo](http://latex.codecogs.com/gif.latex?f%28x%29%3D%5Ccos%28x%29%5Clog_%7B10%7D%28x%5E%7B2%7D%29)
+
 
 ### Video for 2/28
 [This video returns to the concept of limits, with our new knowledge on derivatives applied.](https://www.youtube.com/watch?v=kfF40MiS7zA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=7)
