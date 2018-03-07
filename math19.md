@@ -8,6 +8,9 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Exam 2 Now Available
+[Check it out!](http://uvm.edu/~bfemery/Math019Exam2.pdf)
+
 ### Quiz Practice
 Try finding the derivatives of the following problems:
 
