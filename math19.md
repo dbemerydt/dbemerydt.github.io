@@ -9,7 +9,7 @@ permalink: /math19/
 ## Current Instructions
 
 ### Practice for the quiz on 3-30
-## In case you missed it.
+#### In case you missed it.
 [Relevant classwork 1](http://uvm.edu/~bfemery/Math019ICW03-21.pdf)
 [Relevant classwork 2](http://uvm.edu/~bfemery/Math019ICW03-21.pdf)
 [Kahn Example Problems](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff/e/implicit-differentiation)
