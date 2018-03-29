@@ -21,8 +21,8 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | 3/6  |  Ada Morse      |
 | 3/20 |  Colin Van Oort |
 | 3/27 |  Jack Felag     |
-| 4/3  |  Josh Minot     |
-| 4/10 |  David Dewhurst |
+| 4/3  |  Larry Clarfeld |
+| 4/10 |  Josh Minot     |
 | 4/17 |  Collin Capelle |
 | 5/1  |  Sarah Howerter |
 
