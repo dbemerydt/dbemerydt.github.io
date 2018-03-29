@@ -14,7 +14,7 @@ permalink: /math19/
 
 [Relevant classwork 2](http://uvm.edu/~bfemery/Math019ICW03-26.pdf)
 
-[Kahn Example Problems](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff/e/implicit-differentiation)
+[For more practice, you Kahn try these example problems](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff/e/implicit-differentiation)
 
 
 
