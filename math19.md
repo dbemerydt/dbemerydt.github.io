@@ -10,6 +10,7 @@ permalink: /math19/
 
 ### Keep working through the practice if you need to
 [Classwork from Monday 4-2](http://uvm.edu/~bfemery/Math019ICW04-02.pdf)
+
 [Solutions to Classwork](http://uvm.edu/~bfemery/Math019ICW04-02Soln.pdf)
 
 ### Practice for the quiz on 3-30
