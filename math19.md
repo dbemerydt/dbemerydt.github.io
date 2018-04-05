@@ -4,9 +4,14 @@ title: Math 19
 permalink: /math19/
 ---
 
-![photo](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
+![photo](http://www.uvm.edu/~bfemery/sphericalrams.gif)
 
 ## Current Instructions
+
+### Practice for the quiz on 4-6
+[Here are some nice practice problems.](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-related-rates/e/related-rates) The ones in the "advanced" section are notably harder than what will be on the quiz, so if you can figure those out you're probably good.
+
+Solutions to classwork pending.
 
 ### Keep working through the practice if you need to
 [Classwork from Monday 4-2](http://uvm.edu/~bfemery/Math019ICW04-02.pdf)
@@ -102,3 +107,5 @@ Section 3.1 Problems 1 - 10, 13,14 (Assigned Monday)
 [Here are my solutions to the classwork from 2-28.](http://uvm.edu/~bfemery/IMG_4133.JPG)
 
 [Here are my solutions to the classwork from 2-26.](http://uvm.edu/~bfemery/IMG_4132.JPG)
+
+![photo](http://www.uvm.edu/~bfemery/sphericalzebras.gif)
