@@ -4,7 +4,7 @@ title: Math 19
 permalink: /math19/
 ---
 
-![photo](http://www.uvm.edu/~bfemery/sphericalrams.gif)
+![photo](http://www.uvm.edu/~bfemery/sphericalram.gif)
 
 ## Current Instructions
 
