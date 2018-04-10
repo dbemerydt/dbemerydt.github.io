@@ -22,7 +22,7 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | 3/20 |  Colin Van Oort |
 | 3/27 |  Jack Felag     |
 | 4/3  |  Larry Clarfeld |
-| 4/10 |  Josh Minot     |
-| 4/17 |  Collin Capelle |
+| 4/10 |  Collin Capelle |
+| 4/17 |  TBA |
 | 5/1  |  Sarah Howerter |
 
