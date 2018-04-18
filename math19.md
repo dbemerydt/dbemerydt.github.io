@@ -11,6 +11,8 @@ permalink: /math19/
 ### Study for the exam!
 [Here's the practice version!](http://uvm.edu/~bfemery/Math019PracticeExam3.pdf)
 
+[And here are the solutions!](http://uvm.edu/~bfemery/Math019PracticeExam3soln.jpg)
+
 ### Practice for the quiz on 4-6
 [Here are some nice practice problems.](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-related-rates/e/related-rates) The ones in the "advanced" section are notably harder than what will be on the quiz, so if you can figure those out you're probably good.
 
