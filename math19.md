@@ -8,6 +8,13 @@ permalink: /math19/
 
 ## Current Instructions
 
+### Finish up Wednesday classwork and watch this week's featured video.
+[Classwork](http://uvm.edu/~bfemery/Math019ICW04-25.pdf)
+
+[Solutions](http://uvm.edu/~bfemery/Math019ICW04-25soln.jpg)
+
+[Video](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
+
 ### Study for the exam!
 [Here's the practice version!](http://uvm.edu/~bfemery/Math019PracticeExam3.pdf)
 
