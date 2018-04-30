@@ -7,6 +7,9 @@ permalink: /math19/
 ![photo](http://www.uvm.edu/~bfemery/sphericalram.gif)
 
 ## Current Instructions
+### Will things ever beeee the same again??!!?
+[It's the FI-NAL EX-AM.](http://uvm.edu/~bfemery/Math019FinalExam.pdf)
+#do do do dooooo do do do do dooooo
 
 ### Finish up Wednesday classwork and watch this week's featured video.
 [Classwork](http://uvm.edu/~bfemery/Math019ICW04-25.pdf)
