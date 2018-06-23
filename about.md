@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![photo](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16508_10206622313619312_6519242018168152819_n.jpg?oh=1c0981901b57f0df334b262e669f6bf1&oe=5AB78344)
+![photo](https://uvm.edu/~bfemery/colombia.jpg)
 
 ### Why I'm here
 
