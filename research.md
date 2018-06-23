@@ -4,7 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-![photo](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/21034721_10155644918984931_378466878542908145_n.jpg?oh=c59dda3fa756cdc365d2cbf809a04520&oe=5AC49294)
+![photo](https://uvm.edu/~bfemery/samsi.jpg)
+
+### arXiv Preprints
+[Natural disasters, food, Twitter, and social contagion](https://arxiv.org/abs/1806.07451)
 
 ### Paper Drafts
 [Climatic regime shifts with Teletherm Flickering](http://www.uvm.edu/~bfemery/Emery-TeleFlickering-Paper.pdf)
