@@ -9,7 +9,7 @@ name: Benjamín Freixas Emery
 description: Student, educator
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://uvm.edu/~bfemery/aniMEface.jpg
+avatar: https://uvm.edu/~bfemery/aniMEface.png
 
 #
 # Flags below are optional
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: dbemerydt
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCtzbQhyaUKqbMNzMh4IURQg
   googleplus: # anything in your profile username that comes after plus.google.com/
   strava: 2807062
 
