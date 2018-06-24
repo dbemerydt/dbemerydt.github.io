@@ -16,7 +16,7 @@ I spend an alarming amount of time thinking. At least it would be alarming witho
 
 - I spent one summer working as a [mountain bike guide](http://www.colombianbikejunkies.com/) in rural Colombia.
 
-- I spent another summer helping teach astronomy to [driven high school seniors in New Hampshire](https://www.sps.edu/page/summer-asp/advanced-studies-program).
+- I spent another summer [helping teach astronomy](https://www.instagram.com/p/BIlKWzrBmOJ/) to [driven high school seniors in New Hampshire](https://www.sps.edu/page/summer-asp/advanced-studies-program).
 
 - I race for the [UVM Cycling Team](http://uvm.edu/~cycling), for whom I've competed in collegiate national downhill and cross country MTB races. I've also done a [24-hour MTB race](https://www.instagram.com/p/6OIVxFkHf6/), and will do another upon the next opportunity.
 
