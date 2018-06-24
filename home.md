@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title: greetings, fellow human 
 ---
 
 ![photo](https://uvm.edu/~bfemery/rasputitsa.png)
