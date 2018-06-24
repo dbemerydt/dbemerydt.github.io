@@ -8,7 +8,7 @@ permalink: /about/
 
 ### why I'm here
 
-I spend an alarming amount of time thinking. At least it would be alarming without direction, which is why I'm now pursuing my [MS in Complex Systems and Data Science](http://vermontcomplexsystems.org/education/masters/). This allows me to take impossibly interesting classes and do blatantly fun [research](https://dbemerydt.github.io/research/) with the [Computational Story Lab](http://uvm.edu/storylab), a team that works within the [Complex Systems Center](http://vermontcomplexsystems.org).
+I spend an alarming amount of time thinking. At least it would be alarming without direction, which is why I'm now pursuing my [MS in Complex Systems and Data Science](http://vermontcomplexsystems.org/education/masters/){:target="_blank"}. This allows me to take impossibly interesting classes and do blatantly fun [research](https://dbemerydt.github.io/research/) with the [Computational Story Lab](http://uvm.edu/storylab), a team that works within the [Complex Systems Center](http://vermontcomplexsystems.org).
 
 ### some more data points for improved extrapolation
 
