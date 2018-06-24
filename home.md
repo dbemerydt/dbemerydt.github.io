@@ -5,4 +5,4 @@ title:
 
 ![photo](https://uvm.edu/~bfemery/rasputitsa.png)
 
-Hi, I'm Ben, an applied math Master's student at UVM. This website is still very much a work in progress, but it's growing into a collection of several principal components of my life. Above, one can navigate to information about myself, the courses I instruct, my research, and the events I organize, and below you'll find a few of my favorite social media platforms.
+You've found it. Achievement unlocked. If you're here for a class or for SCRaPS, you may navigate to the appropriate page above. If you'd like to know more about the individual pictured above, the "research" and "about" links could be the right ones for you.
