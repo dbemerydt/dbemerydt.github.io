@@ -6,21 +6,26 @@ permalink: /about/
 
 ![photo](https://uvm.edu/~bfemery/colombia.jpg)
 
-### Why I'm here
+### why I'm here
 
-While earning my MS in applied mathematics, I do blatantly fun research with the [Computational Story Lab](http://uvm.edu/storylab), a team that works within the [Complex Systems Center](http://uvm.edu/~cmplxsys). My work on the team mainly focuses on using data science and mathematics to extract a deeper understanding of the global climate and earth system.
+I spend an alarming amount of time thinking. At least it would be alarming without direction, which is why I'm now pursuing my [MS in Complex Systems and Data Science](http://vermontcomplexsystems.org/education/masters/). This allows me to take impossibly interesting classes and do blatantly fun [research](https://dbemerydt.github.io/research/) with the [Computational Story Lab](http://uvm.edu/storylab), a team that works within the [Complex Systems Center](http://vermontcomplexsystems.org).
 
-### A few more quick facts from which a bigger picture can be extrapolated
+### some more data points for improved extrapolation
 
-- I graduated from UVM in 2016 with bachelor's degrees in physics and statistics.
+- I graduated from UVM in 2016 with [bachelor's degrees in physics and statistics](https://www.instagram.com/p/BFxNaK0kHVG/).
 
-- I spent one summer working as a mountain bike guide in rural Colombia.
+- I spent one summer working as a [mountain bike guide](http://www.colombianbikejunkies.com/) in rural Colombia.
 
-- I spent another summer helping teach astronomy to driven high school seniors in New Hampshire
+- I spent another summer helping teach astronomy to [driven high school seniors in New Hampshire](https://www.sps.edu/page/summer-asp/advanced-studies-program).
 
 - I race for the [UVM Cycling Team](http://uvm.edu/~cycling), for whom I've competed in collegiate national downhill and cross country MTB races. I've also done a 24-hour MTB race, and will do another upon the next opportunity.
 
-### Contact me
+- I recreationally [ski jump](https://en.wikipedia.org/wiki/Ski_jumping), and got my first opportunity to do so at [olympic magnitude](https://www.instagram.com/p/Be4VIpQH_yj/) in February 2018.
+
+### me, reduced to my "professional achievements"
+[CV](https://uvm.edu/~bfemery/BenEmeryCV.pdf)
+
+### my contact info
 
 [bfemery@uvm.edu](mailto:bfemery@uvm.edu)
 
