@@ -24,4 +24,4 @@ While earning my MS in applied mathematics, I do blatantly fun research with the
 
 [bfemery@uvm.edu](mailto:bfemery@uvm.edu)
 
-![photo](https://uvm.edu/~bfemery/thunda.png)
+![photo](https://uvm.edu/~bfemery/thunda.jpg)
