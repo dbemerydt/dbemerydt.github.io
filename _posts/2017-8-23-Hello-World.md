@@ -1,8 +1,12 @@
 ---
-layout: post
-title: Welcome 
+layout: page
+title: greetings, fellow human 
 ---
 
-![photo](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/18034215_1330621637013624_6296963631498004505_n.jpg?oh=e05b0606379d62b137e568d4ebfca0fa&oe=5A601CB0)
+![photo](https://uvm.edu/~bfemery/rasputitsa.png)
 
-Hi, I'm Ben, an applied math Master's student at UVM. You're probably here because I'm teaching you math, or you clicked the link in my email signature. Either way, the icons below all linke to feasible ways you can contact me, and the links above hold information that you may find interesting or useful.
+You've found it. Achievement unlocked. 
+
+If you're here for a class or for SCRaPS, you may navigate to the appropriate page with the links on the navigation bar. 
+
+If you'd like to know more about the individual pictured above, the "research" and "about" links could be the right ones for you.
