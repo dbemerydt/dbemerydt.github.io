@@ -5,4 +5,4 @@ title: math 017: episodes
 
 ## Pilot (draft)
 
-{% youtube https://t.co/OwSmJEDWhf %}
+{% youtube z0eZlXw6bAY %}
