@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Student Complexity Research and Pizza Seminars
+title: SCRaPS
 permalink: /scraps/
 ---
 
 ![photo](https://pbs.twimg.com/profile_banners/1931116441/1503791348/1500x500)
 
-SCRaPS is a biweekly-ish gathering exclusive to students, undergrad and grad, for discussions about research, the universe, and everything. Also, we eat free pizza. 
+Student Complexity Research and Pizza Seminars are biweekly-ish gatherings exclusive to students, undergrad and grad, for discussions about research, the universe, and everything. Also, we eat free pizza. 
 
 ### Spring 2018 Schedule
 
