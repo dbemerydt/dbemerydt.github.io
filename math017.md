@@ -1,6 +1,6 @@
 ---
 layout: page
-title: math017
+title: math 017
 ---
 
 ![photo](https://uvm.edu/~bfemery/gradient_for_logo.png)
