@@ -14,3 +14,15 @@ If you'd like to know more about the individual pictured above, the "research" a
 {% raw %}
 <a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/dbemerydt?ref_src=twsrc%5Etfw">Tweets by dbemerydt</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {% endraw %}
+{% raw %}
+<script type="text/javascript", src="dbemerydt.github.io/_plugins/instafeed.min.js">
+  var feed = new Instafeed({
+    get: 'user',
+    userId: 'USER_ID',
+    filter: function(image) {
+      return image.tags.indexOf('TAG_NAME') >= 0;
+    }
+  });
+  feed.run();
+</script>
+{% endraw %}
