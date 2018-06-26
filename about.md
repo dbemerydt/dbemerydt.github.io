@@ -6,7 +6,7 @@ permalink: /about/
 
 ![photo](https://uvm.edu/~bfemery/colombia.jpg)
 
-### why I'm here
+### why I'm here.
 
 I spend an alarming amount of time thinking. At least it would be alarming without direction, which is why I'm now pursuing my {% raw %}<a href="http://vermontcomplexsystems.org/education/masters/" 𝐭𝐚𝐫𝐠𝐞𝐭="_𝐛𝐥𝐚𝐧𝐤" >MS in Complex Systems and Data Science</a>{% endraw %}. This allows me to take impossibly interesting classes and do blatantly fun [research](https://dbemerydt.github.io/research/) with the [Computational Story Lab](http://uvm.edu/storylab), a team that works within the {% raw %}<a href="http://vermontcomplexsystems.org" 𝐭𝐚𝐫𝐠𝐞𝐭="_𝐛𝐥𝐚𝐧𝐤">Complex Systems Center</a>{% endraw %}.
 
