@@ -13,7 +13,7 @@ If you'd like to know more about the individual pictured above, the "research" a
 
 {% raw %}
 <a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/dbemerydt?ref_src=twsrc%5Etfw">Tweets by dbemerydt</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script type="text/javascript", src="dbemerydt.github.io/_plugins/instafeed.min.js">
+<script type="text/javascript", src="https://uvm.edu/~bfemery/instafeed.min.js">
   var feed = new Instafeed({
     get: 'user',
     userId: 'send_it_for_science',
