@@ -1,9 +1,9 @@
 ---
 layout: page
-title: math 017
+title: mathematics in nature and society
 ---
 
-![photo](https://uvm.edu/~bfemery/gradient_for_logo.png)
+![photo](https://uvm.edu/~bfemery/MiNs_logo.png)
 
 ## Current Instructions
 Observe the pilot episode and provide feedback for its reshoot (if you so desire).
