@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mathematics in nature and society
+title: mathematics in nature and society (math 017)
 ---
 
 ![photo](https://uvm.edu/~bfemery/MiNS_logo_cropped.png)
