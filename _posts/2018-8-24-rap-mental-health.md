@@ -17,4 +17,14 @@ To help answer this question, the website [Genius.com](www.genius.com) seemed pa
 
 ![photo](https://uvm.edu/~bfemery/mental_health_rappers/lupe_annote.png)
 
-I probably couldn't find a way to get my laptop to detect that Lupe is convincing himself not to pull the trigger, but from the annotation, at least we can pull out the word "suicide". 
+I probably couldn't find a way to get my laptop to detect that Lupe is convincing himself not to pull the trigger, but from the annotation, at least we can pull out the word "suicide".
+
+So wrote a Python script that pulled every annotation on every song for all of the listed [hip hop musicians](https://en.wikipedia.org/wiki/List_of_hip_hop_musicians) and [hip hop groups](https://en.wikipedia.org/wiki/List_of_hip_hop_groups) on Wikipedia. Constructing this script was an extreme challenge and is worthy of its own blog post, but I probably won't write one for that. I do, however, plan on doing the good human thing and making a Git repo out of it. We'll see if that ever happens.
+
+From there, I flagged every annotation that talked about suicide, depression, loneliness, anxiety, or just had the phrase "mental health". Being interested first in how rates of this discussion change over time, I counted up the number of these flagged annotations for each year, and then divided by the number of tracks for that year. This is what I came up with for the normalized rate of discussion (accompanied by the unnormalized rate and total number of tracks).
+
+![photo](https://uvm.edu/~bfemery/mental_health_rappers/MH-timeseries.png)
+
+![photo](https://uvm.edu/~bfemery/mental_health_rappers/MH-timeseries-unnormalized.png)
+
+![photo](https://uvm.edu/~bfemery/mental_health_rappers/songs-timeseries.png)
