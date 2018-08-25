@@ -9,6 +9,12 @@ Fortunately, this trend does seem to be getting attention in popular culture, pe
 
 [![Logic - 1-800-273-8255 ft. Alessia Cara, Khalid](http://img.youtube.com/vi/Kb24RrHIbFk/0.jpg)](http://www.youtube.com/watch?v=Kb24RrHIbFk "Logic - 1-800-273-8255 ft. Alessia Cara, Khalid")
 
-It makes sense that this was so powerful. Hip hop must have a lot of influence over the U.S. population, since it [just became the most listened-to genre in the country](https://www.forbes.com/sites/hughmcintyre/2017/07/17/hip-hoprb-has-now-become-the-dominant-genre-in-the-u-s-for-the-first-time/#437dba335383). Additionally, [many other prominent hip hop artists have recently taken to addressing mental health in their music](https://www.youtube.com/watch?v=3JTL5WgdDYk). 
+It makes sense that this was so powerful. Hip hop must have a lot of influence over the U.S. population, considering that it [just became the most listened-to genre in the country](https://www.forbes.com/sites/hughmcintyre/2017/07/17/hip-hoprb-has-now-become-the-dominant-genre-in-the-u-s-for-the-first-time/#437dba335383). Additionally, [many other prominent hip hop artists have recently taken to addressing mental health in their music](https://www.youtube.com/watch?v=3JTL5WgdDYk). 
 
 I recently found myself captivated by this apparent uptick in mental health discussion in hip hop. It's well documented that [suicide spreads as a socially contagious phenomena](https://www.ncbi.nlm.nih.gov/books/NBK207262/), but what about rappers talking about suicide, and mental health in general?
+
+To help answer this question, the website [Genius.com](www.genius.com) seemed particularly useful. Genius is not only a user-friendly database for song lyrics, but it also contains crowd-sourced annotations that explain the meaning behind the lyrics. This is useful from a computational perspective because it's very difficult for a computer to detect symbolism and other devices rappers use to encode meaning. Take this Lupe Fiasco lyric and accompanying annotation, for example. 
+
+![photo](https://uvm.edu/~bfemery/mental_health_rappers/lupe_annote.png)
+
+I probably couldn't find a way to get my laptop to detect that Lupe is convincing himself not to pull the trigger, but from the annotation, at least we can pull out the word "suicide". 
