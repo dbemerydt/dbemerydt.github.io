@@ -33,4 +33,8 @@ Neat! Unlike a D&D game, this phenomenon is taking place in more than just our c
 
 ![photo](https://uvm.edu/~bfemery/mental_health_rappers/MH-zipf-icons.png)
 
-Now if you don't want to go get your magnifying glass out of your fanny pack, which is probably all the way across the room, I can just tell you who's in those icon-sized photos. Our leaders are Kid Cudi, Eminem, Death Grips, Kendrick, XXXtentacion, Aesop Rock, Kanye, Mac Miller, Tyler, and Tech N9ne.
+Now if you don't want to go get your magnifying glass out of your fanny pack, which is probably all the way across the room, I can just tell you who's in those icon-sized photos. Our leaders are Kid Cudi, Eminem, Death Grips, Kendrick, XXXtentacion, Aesop Rock, Kanye, Mac Miller, Tyler, and Tech N9ne. 
+
+I also did plenty of staring at this distribution for individual years, and started wondering about how the diversity of artists talking about mental health (i.e. how much the distribution is dominated by a few artists versus how evenly spread out the distribution is) has changed over time, and how that corresponds to the volume of the discussion. And how might a computational social scientist measure the diversity of a relative frequency distribution. I could think of one way: [Shannon's entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)). This of course only made sense for the years when the number of flagged annotations is reasonably high, so I chose to compute it for just the current millenium. The entropy is shown below, plotted alongside the normalized rate of discussion.
+
+![photo](https://uvm.edu/~bfemery/mental_health_rappers/rate+entropy-timeseries.png)
