@@ -13,7 +13,7 @@ It makes sense that this was so powerful. Hip hop must have a lot of influence o
 
 I recently found myself captivated by this apparent uptick in mental health discussion in hip hop. It's well documented that [suicide spreads as a socially contagious phenomena](https://www.ncbi.nlm.nih.gov/books/NBK207262/), but what about rappers talking about suicide, and mental health in general?
 
-To help answer this question, the website [Genius.com](www.genius.com) seemed particularly useful. Genius is not only a user-friendly database for song lyrics, but it also contains crowd-sourced annotations that explain the meaning behind the lyrics. This is useful from a computational perspective because it's very difficult for a computer to detect symbolism and other devices rappers use to encode meaning. Take this Lupe Fiasco lyric and accompanying annotation, for example. 
+To help answer this question, the website [Genius.com](www.genius.com) seemed particularly useful. Genius is not only a user-friendly database for song lyrics, but it also contains crowd-sourced annotations that explain the meaning behind the lyrics. This is useful from a computational perspective because it's very difficult for a computer to detect symbolism and other devices rappers use to encode meaning. Take the highlighted Lupe Fiasco lyric and accompanying annotation, for example. 
 
 ![photo](https://uvm.edu/~bfemery/mental_health_rappers/lupe_annote.png)
 
@@ -28,3 +28,9 @@ From there, I flagged every annotation that talked about suicide, depression, lo
 ![photo](https://uvm.edu/~bfemery/mental_health_rappers/MH-timeseries-unnormalized.png)
 
 ![photo](https://uvm.edu/~bfemery/mental_health_rappers/songs-timeseries.png)
+
+Neat! Unlike a D&D game, this phenomenon is taking place in more than just our collective imaginations. But who is doing the most talking about mental health, and what shape does the distribution have? To answer this I counted up the flagged annotations for each artist, ranked them in descending order of how many such annotations they had, and plotted the number of annotations against their rank on a [glog-scale](https://twitter.com/dbemerydt/status/939998137757954049) to deal with the heavy tail.
+
+![photo](https://uvm.edu/~bfemery/mental_health_rappers/MH-zipf-icons.png)
+
+Now if you don't want to go get your magnifying glass out of your fanny pack, which is probably all the way across the room, I can just tell you who's in those icon-sized photos. Our leaders are Kid Cudi, Eminem, Death Grips, Kendrick, XXXtentacion, Aesop Rock, Kanye, Mac Miller, Tyler, and Tech N9ne.
