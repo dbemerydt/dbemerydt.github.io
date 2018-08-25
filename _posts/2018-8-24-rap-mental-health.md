@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 
+title: A data-driven preliminary look at mental health in hip hop
 ---
 
-# Some motivation
+## Some motivation
 
 Suicide rates have [risen sharply since the turn of the decade](https://www.cdc.gov/vitalsigns/suicide/), and that increase is especially alarming for young people. It's now the second most common way for [people between the ages of 15 and 35 to die](https://www.cdc.gov/injury/wisqars/pdf/leading_causes_of_death_by_age_group_2015-a.pdf).
 
@@ -25,7 +25,7 @@ I probably couldn't find a way to get my laptop to detect that Lupe is convincin
 
 So wrote a Python script that pulled every annotation on every song for all of the listed [hip hop musicians](https://en.wikipedia.org/wiki/List_of_hip_hop_musicians) and [hip hop groups](https://en.wikipedia.org/wiki/List_of_hip_hop_groups) on Wikipedia. Constructing this script was an extreme challenge and is worthy of its own blog post, but I probably won't write one for that. I do, however, plan on doing the good human thing and making a Git repo out of it. We'll see if that ever happens.
 
-# We're not just making this up
+## We're not just making this up
 
 From there, I flagged every annotation that talked about suicide, depression, loneliness, anxiety, or just had the phrase "mental health". Being interested first in how rates of this discussion change over time, I counted up the number of these flagged annotations for each year, and then divided by the number of tracks for that year. This is what I came up with for the normalized rate of discussion (accompanied by the unnormalized rate and total number of tracks).
 
@@ -41,7 +41,7 @@ Neat! Unlike a D&D game, this phenomenon is taking place in more than just our c
 
 Now if you don't want to go get your magnifying glass out of your fanny pack, which is probably all the way across the room, I can just tell you who's in those icon-sized photos. Our leaders are Kid Cudi, Eminem, Death Grips, Kendrick, XXXtentacion, Aesop Rock, Kanye, Mac Miller, Tyler, and Tech N9ne. 
 
-# Enter Mr. Solo Dolo
+## Enter Mr. Solo Dolo
 
 I also did plenty of staring at this distribution for individual years, and started wondering about how the diversity of artists talking about mental health (i.e. how much the distribution is dominated by a few artists versus how evenly spread out the distribution is) has changed over time, and how that corresponds to the volume of the discussion. And how might a computational social scientist measure the diversity of a relative frequency distribution. I could think of one way: [Shannon's entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)). This of course only made sense for the years when the number of flagged annotations is reasonably high, so I chose to compute it for just the current millenium. The entropy (AKA diversity) is shown below, plotted alongside the normalized rate of discussion.
 
