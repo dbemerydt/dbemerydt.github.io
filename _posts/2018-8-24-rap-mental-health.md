@@ -49,8 +49,8 @@ I also did plenty of staring at this distribution for individual years, and star
 
 My attention upon seeing this was drawn to the right-hand side of the figure, where entropy drops in 2008 and remains low from there on. The individual responsible for that initial drop is none other than Mr. Rager himself. 2008, 2009, and 2010 are all dominated by songs that were released either on Kid Cudi's debut mixtape, "A Kid Named Cudi" or on his first studio album, "Man on the Moon: End of Day". In the years that follow, various other artists take the lead, although he does take it back yet again when he drops his 2016 album, "Passion, Pain, and Demon Slayin'". I can't help but think that Cudi was a critical player in opening the floodgates to this now ubiquitous element of hip hop, which is somewhat satisfying knowing that his mission has always been to ["help kids not feel alone and stop kids from committing suicide"](https://hiphopdx.com/news/id.27910/title.kid-cudi-says-he-wants-to-help-kids-not-feel-alone-and-stop-kids-from-committing-suicide#). To me this looks like Mr. Solo Dolo enters the party, the hip hop community embraces the martian, and the rest is history.
 
-That's what I have so far with this, but there's a ton more to explore here. I'll be back soon with topic modeling, more information theory, and almost definitely wordshifts. 
+If you've gotten this far, I applaud and thank you for bearing with my rambling and geeking out over all this stuff. That's what I have so far, but there's a ton more to explore here. I'll be back soon with topic modeling, more information theory, and almost definitely wordshifts, so stay tuned. Or don't. I don't know what you want. ¯\_(ツ)_/¯ 
 
-PEACE
+### PEACE
 
 
