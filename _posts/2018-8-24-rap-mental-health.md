@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A data-driven preliminary look at mental health in hip hop
+title: Mental health in hip hop: a data-driven preliminary look
 ---
 
 ## Some motivation
