@@ -15,7 +15,7 @@ It makes sense that this was so powerful. Hip hop must have a lot of influence o
 
 I recently found myself captivated by this apparent uptick in mental health discussion in hip hop. It's well documented that [suicide spreads as a socially contagious phenomena](https://www.ncbi.nlm.nih.gov/books/NBK207262/), but what about rappers talking about suicide, and mental health in general?
 
-# Don't sweat the technique
+## Don't sweat the technique
 
 To help answer this question, the website [Genius.com](www.genius.com) seemed particularly useful. Genius is not only a user-friendly database for song lyrics, but it also contains crowd-sourced annotations that explain the meaning behind the lyrics. This is useful from a computational perspective because it's very difficult for a computer to detect symbolism and other devices rappers use to encode meaning. Take the highlighted Lupe Fiasco lyric and accompanying annotation, for example. 
 
