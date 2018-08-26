@@ -17,7 +17,7 @@ I recently found myself captivated by this apparent uptick in mental health disc
 
 ## Don't sweat the technique
 
-To help answer this question, the website [Genius.com](www.genius.com) seemed particularly useful. Genius is not only a user-friendly database for song lyrics, but it also contains crowd-sourced annotations that explain the meaning behind the lyrics. This is useful from a computational perspective because it's very difficult for a computer to detect symbolism and other literary devices rappers use to encode meaning. Take the highlighted Lupe Fiasco lyric and accompanying annotation, for example. 
+To help answer this question, the website [Genius.com](https://genius.com/) seemed particularly useful. Genius is not only a user-friendly database for song lyrics, but it also contains crowd-sourced annotations that explain the meaning behind the lyrics. This is useful from a computational perspective because it's very difficult for a computer to detect symbolism and other literary devices rappers use to encode meaning. Take the highlighted Lupe Fiasco lyric and accompanying annotation, for example. 
 
 ![photo](https://uvm.edu/~bfemery/mental_health_rappers/lupe_annote.png)
 
