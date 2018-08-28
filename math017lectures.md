@@ -1,11 +1,9 @@
 ---
 layout: page
 title: math 017 ~ episodes
-youtubeID1: z0eZlXw6bAY
+youtubeID1: ycWin4Vx7ko
 ---
 
-## Coming soon
 
-<!---
 {% include youtubePlayer.html id=page.youtubeID1 %}
--->
+
