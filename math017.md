@@ -6,9 +6,10 @@ title: mathematics in nature & society (math 017)
 ![photo](https://uvm.edu/~bfemery/MiNS_logo_cropped.png)
 
 ## Current Instructions
-Observe the pilot episode and provide feedback for its reshoot (if you so desire).
+[Fill out the survey.](https://docs.google.com/forms/d/e/1FAIpQLSdnZiQwK2FESzymOZrByOTLQso1z--3sXLxxfa4saRTqyiF-w/viewform?usp=sf_link)
 
 ## [Video Lectures](https://dbemerydt.github.io/math017lectures)
+Checkitout.
 
 {% raw %}
 <a class="twitter-timeline" data-height="600" href="https://twitter.com/MiNS_UVM?ref_src=twsrc%5Etfw">Tweets by Mathematics in Nature and Society</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
