@@ -4,6 +4,8 @@ title: math 017 ~ episodes
 youtubeID1: z0eZlXw6bAY
 ---
 
-## Pilot (draft)
+## Coming soon
 
+<!---
 {% include youtubePlayer.html id=page.youtubeID1 %}
+-->
