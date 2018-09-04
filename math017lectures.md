@@ -3,7 +3,12 @@ layout: page
 title: math 017 ~ episodes
 youtubeID01: ycWin4Vx7ko
 youtubeID02: viLfdpj_YaI
+youtubeID03: kvs7q1Nvvpg
 ---
+
+{% include youtubePlayer.html id=page.youtubeID03 %}
+
+[Self-quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr0jLM-C8ijCaR2VvWui7kBK6gkHDi1TnF0T3cnOlZrxNIHg/viewform?usp=sf_link)
 
 {% include youtubePlayer.html id=page.youtubeID02 %}
 
