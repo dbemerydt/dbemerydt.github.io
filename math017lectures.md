@@ -10,6 +10,8 @@ youtubeID04: v5wqBuUq_lY
 
 {% include youtubePlayer.html id=page.youtubeID04 %}
 
+[Self-quiz](https://goo.gl/forms/ikApr8ug2bTPYEnl1)
+
 {% include youtubePlayer.html id=page.youtubeIDPW %}
 
 {% include youtubePlayer.html id=page.youtubeID03 %}
