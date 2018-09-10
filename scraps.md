@@ -26,3 +26,4 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | 4/17 |  TBA |
 | 5/1  |  Sarah Howerter |
 
+### [Join the SCRaPS listserv.](https://list.uvm.edu/cgi-bin/wa?SUBED1=SCRAPS)
