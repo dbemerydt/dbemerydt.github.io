@@ -7,7 +7,15 @@ youtubeID03: kvs7q1Nvvpg
 youtubeIDPW: P3KxTDJWelg
 youtubeID04: v5wqBuUq_lY
 youtubeID05: YKjZ_pbq4bE
+youtubeIDGM: MnhFm5QVVTo
 ---
+
+[Play Gerrymander](http://playgerrymander.com/game/)
+
+{% include youtubePlayer.html id=page.youtubeIDGM %}
+
+[Self-quiz](https://goo.gl/forms/pSZopkf4LA0BXjLH2)
+
 {% include youtubePlayer.html id=page.youtubeID05 %}
 
 [Self-quiz](https://goo.gl/forms/qVHDdIKRu1vy42FQ2)
