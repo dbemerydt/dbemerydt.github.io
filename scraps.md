@@ -17,8 +17,7 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | ---- | --------------- |
 | Friday 09/14 | Ben Emery      |
 | Friday 09/21 | David Dewhurst |
-| Tuesday 09/25 | Collin Capelle |
-| Friday 09/28 | Tyson Pond | 
+| Tuesday 09/25 | Larry Clarfeld |
 | Tuesday 10/02 | Collin Capelle |
 | Tuesday 10/09 | Shawn Beaulieu |
 | Friday 10/12 | Sam Kriegman |
@@ -31,6 +30,7 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | Friday 11/16 | Ollin Demian Langle Chimal | 
 | Tuesday 11/27 | Dave Landay |
 | Tuesday 12/04 | Dylan Casey |
+| Friday 12/07 | Tyson Pond | 
 
 
 ### [Join the SCRaPS listserv.](https://list.uvm.edu/cgi-bin/wa?SUBED1=SCRAPS)
