@@ -10,7 +10,7 @@ youtubeID05: YKjZ_pbq4bE
 youtubeIDGM: MnhFm5QVVTo
 ---
 
-[Play Gerrymander](http://playgerrymander.com/game/)
+## [Play Gerrymander](http://playgerrymander.com/game/)
 
 {% include youtubePlayer.html id=page.youtubeIDGM %}
 
