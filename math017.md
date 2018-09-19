@@ -6,7 +6,7 @@ title: mathematics in nature & society (math 017)
 ![photo](https://uvm.edu/~bfemery/MiNS_logo_cropped.png)
 
 ## Current Instructions
-Watch Module 04, do self-quiz.
+Play Gerrymander through level 10, take screenshot. Watch Gerrymandering video, take self quiz. (All found in video lecture section.)
 
 ### [Video Lectures](https://dbemerydt.github.io/math017lectures)
 ### [Syllabus](https://uvm.edu/~bfemery/math17/Math017Syllabus.pdf)
