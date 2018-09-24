@@ -8,7 +8,12 @@ youtubeIDPW: P3KxTDJWelg
 youtubeID04: v5wqBuUq_lY
 youtubeID05: YKjZ_pbq4bE
 youtubeIDGM: MnhFm5QVVTo
+youtubeID06: qcreA3Q_vJ0
 ---
+
+{% include youtubePlayer.html id=page.youtubeID06 %}
+
+[Self-quiz](https://goo.gl/forms/5IyBTvCKVq1qzPGv1)
 
 ## [Play Gerrymander](http://playgerrymander.com/game/)
 
