@@ -5,9 +5,6 @@ title: mathematics in nature & society (math 017)
 
 ![photo](https://uvm.edu/~bfemery/MiNS_logo_cropped.png)
 
-## Current Instructions
-Watch Module 06, do self-quiz.
-
 ### [Video Lectures](https://dbemerydt.github.io/math017lectures)
 ### [Syllabus](https://uvm.edu/~bfemery/math17/Math017Syllabus.pdf)
 
