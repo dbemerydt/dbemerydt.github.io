@@ -9,7 +9,7 @@ youtubeID04: v5wqBuUq_lY
 youtubeID05: YKjZ_pbq4bE
 youtubeIDGM: MnhFm5QVVTo
 youtubeID06: qcreA3Q_vJ0
-youtubeID07: Bnf6ucbLQI8&
+youtubeID07: Bnf6ucbLQI8
 ---
 
 {% include youtubePlayer.html id=page.youtubeID07 %}
