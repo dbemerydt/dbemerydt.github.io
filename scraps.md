@@ -19,8 +19,8 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | Friday 09/21 | David Dewhurst |
 | Tuesday 09/25 | Larry Clarfeld |
 | Tuesday 10/02 | Collin Capelle |
-| Tuesday 10/09 | Shawn Beaulieu |
-| Friday 10/12 | Sam Kriegman |
+| Tuesday 10/09 | Postponed |
+| Friday 10/12 | TBA |
 | Friday 10/26 | Sarah Howerter | 
 | Tuesday 10/30 | Sandhya |
 | Friday 11/02 | Colin Van Oort |
