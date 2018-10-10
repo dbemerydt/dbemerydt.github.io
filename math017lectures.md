@@ -10,7 +10,12 @@ youtubeID05: YKjZ_pbq4bE
 youtubeIDGM: MnhFm5QVVTo
 youtubeID06: qcreA3Q_vJ0
 youtubeID07: Bnf6ucbLQI8
+youtubeID08: MetrGnC8byY
 ---
+
+{% include youtubePlayer.html id=page.youtubeID08 %}
+
+[Self-quiz](https://goo.gl/forms/M5P6JnLROZjS9ITl2)
 
 {% include youtubePlayer.html id=page.youtubeID07 %}
 
