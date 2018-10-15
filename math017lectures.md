@@ -11,7 +11,14 @@ youtubeIDGM: MnhFm5QVVTo
 youtubeID06: qcreA3Q_vJ0
 youtubeID07: Bnf6ucbLQI8
 youtubeID08: MetrGnC8byY
+youtubeID09: rDB1QzZNDAk
 ---
+
+{% include youtubePlayer.html id=page.youtubeID09 %}
+
+[Self-quiz](https://goo.gl/forms/ufbDLL0x3sDvm64W2)
+
+If you're confused about the coffee mug (which I idiotically placed in view of the camera), it came with the pre-order of [an album I like.](https://en.wikipedia.org/wiki/All-Amerikkkan_Badass) I thought that was worth clarifying.
 
 {% include youtubePlayer.html id=page.youtubeID08 %}
 
