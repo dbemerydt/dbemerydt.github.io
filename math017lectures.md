@@ -14,7 +14,12 @@ youtubeID08: MetrGnC8byY
 youtubeID09: rDB1QzZNDAk
 youtubeID10: kt9YGv3QByk
 youtubeID11: xyvnrRmkVfo
+youtubeID12: jkz1YeL0e2w
 ---
+{% include youtubePlayer.html id=page.youtubeID12 %}
+
+[Self-quiz](https://goo.gl/forms/5rHrMDM8yRsDtfX52)
+
 {% include youtubePlayer.html id=page.youtubeID11 %}
 
 [Self-quiz](https://goo.gl/forms/u1UrUnjh38RINVKS2)
