@@ -20,6 +20,8 @@ youtubeID12: jkz1YeL0e2w
 
 [Self-quiz](https://goo.gl/forms/5rHrMDM8yRsDtfX52)
 
+Note: This lesson was heavily inspired by a [video on the same topic by Grant Sanderson](https://youtu.be/gB9n2gHsHN4). If you're struggling with my explanation of these things, I recommend checking out this video instead. Grant's presentation is much more rehearsed and coherent than mine, but I think he blows past some steps that are not as trivial for us as they are for his audience.
+
 {% include youtubePlayer.html id=page.youtubeID11 %}
 
 [Self-quiz](https://goo.gl/forms/u1UrUnjh38RINVKS2)
