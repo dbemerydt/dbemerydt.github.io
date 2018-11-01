@@ -20,6 +20,8 @@ youtubeID13: OOysIdMxo8g
 
 {% include youtubePlayer.html id=page.youtubeID13 %}
 
+[Self-quiz](https://goo.gl/forms/poWVDJhON2QikOTn1)
+
 {% include youtubePlayer.html id=page.youtubeID12 %}
 
 [Self-quiz](https://goo.gl/forms/5rHrMDM8yRsDtfX52)
