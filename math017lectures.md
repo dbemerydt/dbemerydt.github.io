@@ -22,6 +22,8 @@ youtubeID14: IECJ9F7whIs
 
 [Self-quiz](https://goo.gl/forms/tGaEVoM0Ca3QZMOA3)
 
+Here's another [link to the podcast episode](https://www.wnycstudios.org/story/six-degrees), in case you haven't lisened to it yet.
+
 {% include youtubePlayer.html id=page.youtubeID13 %}
 
 [Self-quiz](https://goo.gl/forms/poWVDJhON2QikOTn1)
