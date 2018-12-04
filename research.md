@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 ---
 
-![photo](https://uvm.edu/~bfemery/samsi.jpg)
+![photo](https://uvm.edu/~bfemery/storytimefall2018.png)
 
 I'm working on many research projects. Debatably too many. Their subject matters range from climate dynamics to emojis, with a dense collection of things in between. I primarily work under all-around rockstars [Chris Danforth](https://uvm.edu/~cdanfort) and [Peter Dodds](https://uvm.edu/pdodds), but I also report to the now [world-famous](https://www.cbsnews.com/news/americans-waste-nearly-a-pound-of-food-each-per-day-study-finds/) Professor [Meredith Niles](https://www.meredithtniles.com/) on my projects related to food systems.
 
