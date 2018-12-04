@@ -29,4 +29,4 @@ I spend an alarming amount of time thinking. At least it would be alarming witho
 
 [bfemery@uvm.edu](mailto:bfemery@uvm.edu)
 
-![photo](https://uvm.edu/~bfemery/vermont_biker.jpg)
+![photo](https://uvm.edu/~bfemery/vermont_biker.png)
