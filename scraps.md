@@ -8,7 +8,7 @@ permalink: /scraps/
 
 Student Complexity Research and Pizza Seminars are biweekly-ish gatherings exclusive to students, undergrad and grad, for discussions about research, the universe, and everything. Also, we eat free pizza. 
 
-### Spring 2018 Schedule
+### Spring 2019 Schedule
 
 If you'd like to request changes or additions to this schedule, please email bfemery@uvm.edu or scraps@uvm.edu.
 
