@@ -18,7 +18,7 @@ I spend an alarming amount of time thinking. At least it would be alarming witho
 
 - I spent another summer [helping teach astronomy](https://www.instagram.com/p/BIlKWzrBmOJ/) to [driven high school seniors in New Hampshire](https://www.sps.edu/page/summer-asp/advanced-studies-program).
 
-- I race for the [UVM Cycling Team](http://uvm.edu/~cycling), for whom I've competed in collegiate national downhill and cross country MTB races. I've also done a [24-hour MTB race](https://www.instagram.com/p/6OIVxFkHf6/), and will do another upon the next opportunity.
+- I race for the [UVM Cycling Team](http://uvm.edu/~cycling), for whom I've competed in collegiate national downhill and cross country MTB races. [You can't prove that I wasn't the best collegiate mountain biker in the east in 2018.](https://www.conwaydailysun.com/sports/events/emery-is-eastern-collegiate-cycling-champ/article_6eaffeb4-f292-11e8-82db-a39c523fbfe1.html) I've also done a [24-hour MTB race](https://www.instagram.com/p/6OIVxFkHf6/), and will do another upon the next opportunity.
 
 - I recreationally [ski jump](https://en.wikipedia.org/wiki/Ski_jumping), and got my first opportunity to do so at [olympic magnitude](https://www.instagram.com/p/Be4VIpQH_yj/) in February 2018.
 
