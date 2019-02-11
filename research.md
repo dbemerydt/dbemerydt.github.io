@@ -18,7 +18,7 @@ I'm working on many research projects. Debatably too many. Their subject matters
 
 
 ### Miscellanous
-[deRetweevative}(http://www.uvm.edu/~bfemery/deretweevative/)
+[deRetweevative](http://www.uvm.edu/~bfemery/deretweevative/)
 
 [Interactive Emoji Zipf](http://www.uvm.edu/~bfemery/emojizipf.html)
 
