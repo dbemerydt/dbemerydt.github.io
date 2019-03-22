@@ -15,17 +15,17 @@ If you'd like to request changes or additions to this schedule, please email bfe
 
 | Date |  Speaker        |
 | ---- | --------------- |
-| 01/22 | Ben Emery & Sam Rosenblatt   |
-| 01/29 | David Dewhurst |
-| 02/05 | Collin Capelle |
-| 02/19 | Jack Felag |
-| 02/26 | Michael Arnold | 
-| 03/19 | Sam Kriegman |
-| 03/26 | Ollin Damian Langle Chimal |
-| 04/02 | Nat Shenton    |
-| 04/09 | Sarah Howerter |
-| 04/16 | Todd Deluca    |
-| 04/23 | Shawn Bealieau | 
-| 04/30 | Dave Landay |
+| 01/22__ | Ben Emery & Sam Rosenblatt   |
+| 01/29__ | David Dewhurst |
+| 02/05__ | Collin Capelle |
+| 02/19__ | Jack Felag |
+| 02/26__ | Michael Arnold | 
+| 03/19__ | Sam Kriegman |
+| 03/26__ | Ollin Damian Langle Chimal |
+| 04/02__ | Nat Shenton    |
+| 04/09__ | Sarah Howerter |
+| 04/16__ | Todd Deluca    |
+| 04/23__ | Shawn Bealieau | 
+| 04/30__ | Dave Landay |
 
 ### [Join the SCRaPS listserv.](https://list.uvm.edu/cgi-bin/wa?SUBED1=SCRAPS)
