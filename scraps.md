@@ -18,14 +18,14 @@ If you'd like to request changes or additions to this schedule, please email bfe
 | 01/22 | Ben Emery & Sam Rosenblatt   |
 | 01/29 | David Dewhurst |
 | 02/05 | Collin Capelle |
-| 02/12 | Jack Felag |
-| 02/19 | Michael Arnold | 
-| 02/26 | Sam Kriegman |
-| 03/19 | Ollin Damian Langle Chimal |
-| 03/26 | Kelly Gothard |
-| 04/02 | Nat Shenton |
+| 02/19 | Jack Felag |
+| 02/26 | Michael Arnold | 
+| 03/19 | Sam Kriegman |
+| 03/26 | Ollin Damian Langle Chimal |
+| 04/02 | Nat Shenton    |
 | 04/09 | Sarah Howerter |
-| 04/16 | Todd Deluca | 
-| 04/23 | Clayton Cafiero (tentative) |
+| 04/16 | Todd Deluca    |
+| 04/23 | Shawn Bealieau | 
+| 04/30 | Dave Landay |
 
 ### [Join the SCRaPS listserv.](https://list.uvm.edu/cgi-bin/wa?SUBED1=SCRAPS)
