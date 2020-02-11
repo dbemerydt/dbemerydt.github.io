@@ -14,7 +14,7 @@ I spend an alarming amount of time thinking. At least it would be alarming witho
 
 - I graduated from UVM in 2016 with [bachelor's degrees in physics and statistics](https://www.instagram.com/p/BFxNaK0kHVG/).
 
-- I spent one summer working as a [mountain bike guide](http://www.colombianbikejunkies.com/) in rural Colombia.
+- I spent one summer exploring rural Colombia on my mountain bike, and even did a little [guiding while I was out there](http://www.colombianbikejunkies.com/).
 
 - I spent another summer [helping teach astronomy](https://www.instagram.com/p/BIlKWzrBmOJ/) to [driven high school seniors in New Hampshire](https://www.sps.edu/page/summer-asp/advanced-studies-program).
 
