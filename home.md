@@ -3,7 +3,7 @@ layout: page
 title: s👀n
 ---
 
-![photo](https://senditfor.science/images/gg.jpg)
+![photo](https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/gg.jpg)
 
 
 {% endraw %}
