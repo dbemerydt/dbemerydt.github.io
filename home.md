@@ -1,10 +1,9 @@
 ---
 layout: page
-title: greetings, fellow human 
+title: s👀n
 ---
 
 ![photo](https://senditfor.science/images/gg.jpg)
 
-# s👀n
 
 {% endraw %}
