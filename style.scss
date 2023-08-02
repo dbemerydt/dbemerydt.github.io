@@ -23,6 +23,26 @@ body {
   color: $darkGray;
 }
 
+table {
+  width: 100%;
+  text-align: left;
+
+}
+
+th {
+  height: 70px;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: aquamarine;}
+
 .container {
   margin: 0 auto;
   max-width: 1480px;
