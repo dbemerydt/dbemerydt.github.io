@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bicycles
+title: Bicycling
 ---
 
 ![photo](images/true-grit-crop.jpg)
