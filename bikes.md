@@ -14,7 +14,7 @@ As I insist on continuing to show up to races, some of them going well is a stat
 
 |__Event__|__Result__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
-[Revolution Enduro - Glorieta 2023](https://www.sportident.co.uk/results/RevolutionEnduro/2023/GlorietaEnduro/)  |13th Open Men and Overall     |*n* EWS professional racers 
+[Revolution Enduro - Glorieta 2023](https://www.sportident.co.uk/results/RevolutionEnduro/2023/GlorietaEnduro/)  |13th Open Men and Overall     |Among 5 EWS professional racers.
 [True Grit MTB 100 2023](https://my.raceresult.com/234048/)|8th Overall | 0:01 from 6th - still working on the sprinting thing.
 [MBAA Enduro Hawes 2022](https://mbaaendurohawes.itsyourrace.com/ResultsMultiStage.aspx?&id=14695&y=0&st=0&cat=833&srch=)|9th Open Men|
 [El Paso Puzzler 2022](https://www.webscorer.com/racedetails?raceid=265087&did=307667)|6th Overall
