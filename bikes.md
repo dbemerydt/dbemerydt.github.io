@@ -5,9 +5,9 @@ title: bicycles
 
 ![photo](images/true-grit-crop.jpg)
 
-I'm an interdisciplinary off-road cyclist and racer. Interdisciplinary because every year or so I have an identity crisis about which type of racing I want to do, and off-road because I like being in the trees or on the desert rocks. I've been racing endurance-style events since middle school circa 2007, and gravity-style events since 
+I'm an interdisciplinary off-road cyclist and racer. Interdisciplinary because every year or so I have an identity crisis about which type of racing I want to do, and off-road because I like being in the trees or on the desert rocks. I've been racing endurance-style events since middle school circa 2007, and gravity-style events since college in 2012.
 
-__Dirt roads are still roads.__
+_Dirt roads are still roads._
 
 # Results
 As I insist on continuing to show up to races, some of them going well is a statistical inevitability. Here are some recent examples.
@@ -20,6 +20,10 @@ As I insist on continuing to show up to races, some of them going well is a stat
 [El Paso Puzzler 2022](https://www.webscorer.com/racedetails?raceid=265087&did=307667)|6th Overall
 [Reaper Madness Dual Slalom 2021](https://www.pinkbike.com/news/race-report-2021-dvo-reaper-madness-bootleg-canyon.html)|2nd Pro/Expert| Winner was a local who didn't race enduro or downhill, practice for which had taken place earlier in the day. 
 [Eastern Collegiate Conference MTB Season 2018](https://img1.wsimg.com/blobby/go/87a1a8b1-e31c-45fe-a820-6f97a8558930/downloads/2018_mtb_overall_standings_w4b%20(2).pdf?ver=1600701277961)| 1st Overall for Omnium and Endurance | 
+
+# Non-race activities
+
+In recent years I've served on the trail development committee for the Albuquerque Mountain Bike Association, and stood in as acting coach for the University of Vermont MTB Nationals team for two years. In early 2021, [I raised $10,000 for the Innocence Project by riding for 24 hours in my local trail network](https://www.gofundme.com/f/24-hours-for-innocence). I also served as the MTB season coordinator for the UVM cycling team while working on my bachelor's degrees.
 
 
 ![photo](images/glorieta-crop.jpg)
