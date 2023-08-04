@@ -5,7 +5,7 @@ title: Bicycling
 
 ![photo](images/true-grit-crop.jpg)
 
-I'm an interdisciplinary off-road cyclist and racer. Interdisciplinary because every year or so I have an identity crisis about which type of racing I want to do, and off-road because I like being in the trees or on the desert rocks. I've been racing endurance-style events since middle school circa 2007, and gravity-style events since college in 2012.
+I'm an interdisciplinary off-road cyclist and racer. Interdisciplinary because every year or so I have an identity crisis about which type of racing I want to do, and off-road because I like being in the trees or on the desert rocks. I've been racing endurance events since middle school circa 2007, and gravity events since college in 2012.
 
 _Dirt roads are still roads._
 
