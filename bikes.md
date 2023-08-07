@@ -14,14 +14,13 @@ As I insist on continuing to show up to races, some of them going well is a stat
 
 |__Event__|__Result__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
-[24 Hours of Great Glen 2023 Solo](https://live.bullitttiming.com/event/class-group/2550/class/7112/teamResults)|1st Overall|[213 miles, 26,555 feet](https://www.strava.com/activities/9595538735)
-[Revolution Enduro - Glorieta 2023](https://www.sportident.co.uk/results/RevolutionEnduro/2023/GlorietaEnduro/)  |13th Open Men and Overall     |Among 5 EWS professional racers.
-[True Grit MTB 100 2023](https://my.raceresult.com/234048/)|8th Overall | 0:01 from 6th - still working on the sprinting thing.
-[MBAA Enduro Hawes 2022](https://mbaaendurohawes.itsyourrace.com/ResultsMultiStage.aspx?&id=14695&y=0&st=0&cat=833&srch=)|9th Open Men|
-[El Paso Puzzler 2022](https://www.webscorer.com/racedetails?raceid=265087&did=307667)|6th Overall
-[Reaper Madness Dual Slalom 2021](https://www.pinkbike.com/news/race-report-2021-dvo-reaper-madness-bootleg-canyon.html)|2nd Pro/Expert| 
-<!-- Winner was a local who didn't race enduro or downhill, practice for which had taken place earlier in the day.  -->
-[Eastern Collegiate Conference MTB Season 2018](https://img1.wsimg.com/blobby/go/87a1a8b1-e31c-45fe-a820-6f97a8558930/downloads/2018_mtb_overall_standings_w4b%20(2).pdf?ver=1600701277961)| 1st Overall for Omnium and Endurance | 
+|[24 Hours of Great Glen 2023 Solo](https://live.bullitttiming.com/event/class-group/2550/class/7112/teamResults)|1st Overall|[213 miles, 26,555 feet](https://www.strava.com/activities/9595538735)|
+|[Revolution Enduro - Glorieta 2023](https://www.sportident.co.uk/results/RevolutionEnduro/2023/GlorietaEnduro/)  |13th Open Men and Overall     |Among 5 EWS professional racers.|
+|[True Grit MTB 100 2023](https://my.raceresult.com/234048/)|8th Overall | 0:01 from 6th - still working on the sprinting thing.|
+|[MBAA Enduro Hawes 2022](https://mbaaendurohawes.itsyourrace.com/ResultsMultiStage.aspx?&id=14695&y=0&st=0&cat=833&srch=)|9th Open Men| |
+|[El Paso Puzzler 2022](https://www.webscorer.com/racedetails?raceid=265087&did=307667)|6th Overall| |
+|[Reaper Madness Dual Slalom 2021](https://www.pinkbike.com/news/race-report-2021-dvo-reaper-madness-bootleg-canyon.html)|2nd Pro/Expert| |
+|[Eastern Collegiate Conference MTB Season 2018](https://img1.wsimg.com/blobby/go/87a1a8b1-e31c-45fe-a820-6f97a8558930/downloads/2018_mtb_overall_standings_w4b%20(2).pdf?ver=1600701277961)| 1st Overall for Omnium and Endurance | |
 
 # Non-race activities
 
