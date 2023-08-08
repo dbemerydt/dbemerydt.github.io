@@ -27,6 +27,6 @@ As I insist on continuing to show up to races, some of them going well is a stat
 In recent years I've served on the trail development committee for the Albuquerque Mountain Bike Association, and stood in as acting coach for the University of Vermont MTB Nationals team for two years. In early 2021, [I raised $10,000 for the Innocence Project by riding for 24 hours in my local trail network](https://www.gofundme.com/f/24-hours-for-innocence). I also served as the MTB season coordinator for the UVM cycling team while working on my bachelor's degrees.
 
 
-![photo](images/glorieta-crop.jpg)
+![photo](images/glorieta-2.jpg)
 
 
