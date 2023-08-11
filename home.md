@@ -3,8 +3,8 @@ layout: page
 title: Things will be here s👀n.
 ---
 
-I promise 😬
+I promise 😬 
 
-![photo](images/gg-2023jpg)
+![photo](https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/gg-2023.jpg)
 
 
