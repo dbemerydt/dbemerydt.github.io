@@ -1,8 +1,10 @@
 ---
 layout: page
-title: s👀n
+title: Things will be here s👀n.
 ---
 
-![photo](https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/gg.jpg)
+I promise 😬
+
+![photo](images/gg-2023jpg)
 
 
