@@ -15,7 +15,7 @@ As I insist on continuing to show up to races, some of them going well is a stat
 
 |__Event__|__Result__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
-[24 Hours of Great Glen 2023 Solo](https://live.bullitttiming.com/event/class-group/2550/class/7112/teamResults) |1st Overall |[213 miles, 26,555 feet.](https://www.strava.com/activities/9595538735) This was important enough that [I wrote about it.](https://www.instagram.com/p/CwEGKFcMuWK/)
+[24 Hours of Great Glen 2023](https://live.bullitttiming.com/event/class-group/2550/class/7112/teamResults) |1st Overall Solo|[213 miles, 26,555 feet.](https://www.strava.com/activities/9595538735) This was important enough that [I wrote about it.](https://www.instagram.com/p/CwEGKFcMuWK/)
 [Revolution Enduro - Glorieta 2023](https://www.sportident.co.uk/results/RevolutionEnduro/2023/GlorietaEnduro/)  |13th Open Men and Overall     |Among 5 EWS professional racers.
 [True Grit MTB 100 2023](https://my.raceresult.com/234048/)|8th Overall | 0:01 from 6th - still working on the sprinting thing.
 [MBAA Enduro Hawes 2022](https://mbaaendurohawes.itsyourrace.com/ResultsMultiStage.aspx?&id=14695&y=0&st=0&cat=833&srch=)|9th Open Men| 
@@ -25,7 +25,7 @@ As I insist on continuing to show up to races, some of them going well is a stat
 
 # Non-race activities
 
-In recent years I've served on the trail development committee for the Albuquerque Mountain Bike Association, and stood in as acting coach for the University of Vermont MTB Nationals team for two years. In early 2021, [I raised $10,000 for the Innocence Project by riding for 24 hours in my local trail network](https://www.gofundme.com/f/24-hours-for-innocence). I also served as the MTB season coordinator for the UVM cycling team while working on my bachelor's degrees.
+In recent years I've served on the trail development committee for the Albuquerque Mountain Bike Association, and stood in as acting coach for the University of Vermont MTB Nationals team for two years. In early 2021, [I raised $10,000 for the Innocence Project by riding for 24 hours in my local trail network](https://www.gofundme.com/f/24-hours-for-innocence). I also served as the MTB season coordinator for the UVM cycling team while working on my bachelors' degrees.
 
 
 ![photo](images/glorieta-2.jpg)
