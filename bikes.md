@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bicycling
-permalink:/bikes/
+title: 
+permalink: /bikes/
 ---
 
 ![photo](images/true-grit-crop.jpg)

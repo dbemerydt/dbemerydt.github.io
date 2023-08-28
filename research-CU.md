@@ -1,8 +1,10 @@
 ---
 layout: page
-title: research
+title: 
 permalink: /research/
 ---
+
+![photo](images/defense-banner.jpeg)
 
 ## The view from above
 
