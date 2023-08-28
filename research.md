@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-permalink: /research/
+permalink: /research-old/
 ---
 
 ![photo](https://uvm.edu/~bfemery/storytimefall2018.png)
