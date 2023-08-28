@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Welcome to the Benternet 
-permalink: /home/
 ---
 
 Have a look around 🕶️🎹 
