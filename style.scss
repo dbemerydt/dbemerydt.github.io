@@ -48,6 +48,7 @@ tr:hover {background-color: aquamarine;}
   max-width: 1480px;
   padding: 0 10px;
   width: 100%;
+  max-height: 200px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -130,10 +131,7 @@ strong, b {
 img {
   max-width: 100%;
   max-height: 20%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+  }
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
