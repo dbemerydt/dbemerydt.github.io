@@ -25,11 +25,11 @@ In 2023, I left Sandia to pursue a PhD in Information Science at the University 
 
 ### Publications 
 
-\[5\] A. Naugle, D. Krofcheck, C. Warrender, K. Lakkaraju, L. Swiler, S. Verzi, **B. F. Emery**, J. Murdock, M. Bernard, and V. Romero, “What can simulation test beds teach us about social science? results of the ground truth program,” *Computational and Mathematical Organization Theory*, pp. 1–22, 2022.
-\[4\] C. C. Nicholson, **B. F. Emery**, and M. T. Niles, “Global relationships between crop diversity and nutritional stability,” *Nature Communications*, vol. 12, no. 1, pp. 1–9, 2021.
-\[3\] **B. F. Emery**, M. T. Niles, C. M. Danforth, and P. S. Dodds, “Local information sources received the most attention from Puerto Ricans during the aftermath of Hurricane Maria,” *PLOS ONE*, vol. 16, no. 6, p. e0251704, 2021.
-\[2\] M. T. Niles, **B. F. Emery**, S. Wiltshire, M. E. Brown, B. Fisher, and T. H. Ricketts, “Climate impacts associated with reduced diet diversity in children across nineteen countries,” *Environmental Research Letters*, vol. 16, no. 1, p. 015010, 2021.
-\[1\] M. T. Niles, **B. F. Emery**, A. J. Reagan, P. S. Dodds, and C. M. Danforth, “Social media usage patterns during natural hazards,” *PLOS ONE*, vol. 14, no. 2, p. e0210484, 2019.
+1. A. Naugle, D. Krofcheck, C. Warrender, K. Lakkaraju, L. Swiler, S. Verzi, **B. F. Emery**, J. Murdock, M. Bernard, and V. Romero, “What can simulation test beds teach us about social science? results of the ground truth program,” *Computational and Mathematical Organization Theory*, pp. 1–22, 2022.
+1. C. C. Nicholson, **B. F. Emery**, and M. T. Niles, “Global relationships between crop diversity and nutritional stability,” *Nature Communications*, vol. 12, no. 1, pp. 1–9, 2021.
+1. **B. F. Emery**, M. T. Niles, C. M. Danforth, and P. S. Dodds, “Local information sources received the most attention from Puerto Ricans during the aftermath of Hurricane Maria,” *PLOS ONE*, vol. 16, no. 6, p. e0251704, 2021.
+1. M. T. Niles, **B. F. Emery**, S. Wiltshire, M. E. Brown, B. Fisher, and T. H. Ricketts, “Climate impacts associated with reduced diet diversity in children across nineteen countries,” *Environmental Research Letters*, vol. 16, no. 1, p. 015010, 2021.
+1. M. T. Niles, **B. F. Emery**, A. J. Reagan, P. S. Dodds, and C. M. Danforth, “Social media usage patterns during natural hazards,” *PLOS ONE*, vol. 14, no. 2, p. e0210484, 2019.
 
 
 
