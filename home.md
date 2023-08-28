@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Things will be here s👀n.
+title: Welcome to the Benternet 
+permalink: /home/
 ---
 
-I promise 😬 
+Have a look around 🕶️🎹 
 
 ![photo](https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/gg-2023.jpg)
 
