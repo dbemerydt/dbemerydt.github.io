@@ -5,7 +5,7 @@ title: Welcome to the Benternet 🕶️🎹
 
 In summary,
 
-![photo](images/benemery_eqn.jpeg){: max-width="500"}
+![photo](images/benemery_eqn.jpeg){: max-width="500px"}
 
 Some of these singular vectors may be explored via the navigation bar on the top-right. Thank you for visiting!
 
