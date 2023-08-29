@@ -28,18 +28,18 @@ In 2023, I left Sandia to pursue a PhD in Information Science at the University 
 # Writing
 ## Publications 
 
-1. A. Naugle, D. Krofcheck, C. Warrender, K. Lakkaraju, L. Swiler, S. Verzi, **B. F. Emery**, J. Murdock, M. Bernard, and V. Romero, “What can simulation test beds teach us about social science? results of the ground truth program,” *Computational and Mathematical Organization Theory*, pp. 1–22, 2022.
-1. C. C. Nicholson, **B. F. Emery**, and M. T. Niles, “Global relationships between crop diversity and nutritional stability,” *Nature Communications*, vol. 12, no. 1, pp. 1–9, 2021.
-1. **B. F. Emery**, M. T. Niles, C. M. Danforth, and P. S. Dodds, “Local information sources received the most attention from Puerto Ricans during the aftermath of Hurricane Maria,” *PLOS ONE*, vol. 16, no. 6, p. e0251704, 2021.
-1. M. T. Niles, **B. F. Emery**, S. Wiltshire, M. E. Brown, B. Fisher, and T. H. Ricketts, “Climate impacts associated with reduced diet diversity in children across nineteen countries,” *Environmental Research Letters*, vol. 16, no. 1, p. 015010, 2021.
-1. M. T. Niles, **B. F. Emery**, A. J. Reagan, P. S. Dodds, and C. M. Danforth, “Social media usage patterns during natural hazards,” *PLOS ONE*, vol. 14, no. 2, p. e0210484, 2019.
+- A. Naugle, D. Krofcheck, C. Warrender, K. Lakkaraju, L. Swiler, S. Verzi, **B. F. Emery**, J. Murdock, M. Bernard, and V. Romero, “[What can simulation test beds teach us about social science? results of the ground truth program](https://link.springer.com/article/10.1007/s10588-021-09349-6),” *Computational and Mathematical Organization Theory*, pp. 1–22, 2022.
+- C. C. Nicholson, **B. F. Emery**, and M. T. Niles, “[Global relationships between crop diversity and nutritional stability](https://www.nature.com/articles/s41467-021-25615-2),” *Nature Communications*, vol. 12, no. 1, pp. 1–9, 2021.
+- **B. F. Emery**, M. T. Niles, C. M. Danforth, and P. S. Dodds, “[Local information sources received the most attention from Puerto Ricans during the aftermath of Hurricane Maria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251704),” *PLOS ONE*, vol. 16, no. 6, p. e0251704, 2021.
+- M. T. Niles, **B. F. Emery**, S. Wiltshire, M. E. Brown, B. Fisher, and T. H. Ricketts, “[Climate impacts associated with reduced diet diversity in children across nineteen countries](https://iopscience.iop.org/article/10.1088/1748-9326/abd0ab),” *Environmental Research Letters*, vol. 16, no. 1, p. 015010, 2021.
+- M. T. Niles, **B. F. Emery**, A. J. Reagan, P. S. Dodds, and C. M. Danforth, “[Social media usage patterns during natural hazards](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210484),” *PLOS ONE*, vol. 14, no. 2, p. e0210484, 2019.
 
 
 ## White Papers
 
-1. [A Model of Narrative Reinforcement on a Dual-Layer Social Network](https://www.osti.gov/biblio/1894003/)
-1. [A Projected Network Model of Online Disinformation Cascades](https://www.osti.gov/biblio/1822318/)
-1. [Sensitivity and Uncertainty Analysis of Generator Failures under Extreme Temperature Scenarios in Power Systems](https://www.osti.gov/biblio/1808746/)
+- [A Model of Narrative Reinforcement on a Dual-Layer Social Network](https://www.osti.gov/biblio/1894003/)
+- [A Projected Network Model of Online Disinformation Cascades](https://www.osti.gov/biblio/1822318/)
+- [Sensitivity and Uncertainty Analysis of Generator Failures under Extreme Temperature Scenarios in Power Systems](https://www.osti.gov/biblio/1808746/)
 
 
 
