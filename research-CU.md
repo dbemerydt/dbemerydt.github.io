@@ -16,7 +16,7 @@ Past subject of my research have included:
 - social networks,
 - disaster-event communications,
 - socio-cognitive modeling,
-- global food systems
+- global food systems,
 - sentiment analysis, information theory, and NLP.
 
 # Background 
