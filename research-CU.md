@@ -26,9 +26,9 @@ I completed a B.S. in Physics, B.S. in Statistics, and M.S. in Complex Systems a
 In 2023, I left Sandia to pursue a PhD in Information Science at the University of Colorado in Boulder, where I currently reside. At CU, I work with Professor [Brian Keegan](https://www.brianckeegan.com/), studying the online behavior of extremist groups to develop methods of predicting and preventing real-world attacks on marginalized communities.
 
 <p align="middle">
-  <img src="images/resume-figs/1.png" height="100" />
-  <img src="images/resume-figs/6.png" height="100" /> 
-  <img src="images/resume-figs/7.png" height="100" />
+  <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/1.png" height="100" />
+  <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/6.png" height="100" /> 
+  <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/7.png" height="100" />
 </p>
 
 # Writing
