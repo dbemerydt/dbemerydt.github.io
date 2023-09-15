@@ -15,10 +15,11 @@ As I insist on continuing to show up to races, some of them going well is a stat
 
 |__Event__|__Result__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
+[Vapor Trail 125 2023](https://docs.google.com/spreadsheets/d/11oBzTuFAfH6EgJ6FcjZpKr18zAsneS4s3vMgS2BoW5M/edit#gid=0)| 5th Overall| 14:15, 49 minutes off the winning time. 17k vert, cumulative hour of hiking.
 [24 Hours of Great Glen 2023](https://live.bullitttiming.com/event/class-group/2550/class/7112/teamResults) |1st Overall Solo|[213 miles, 26,555 feet.](https://www.strava.com/activities/9595538735) This was important enough that [I wrote about it.](https://www.instagram.com/p/CwEGKFcMuWK/)
 [Revolution Enduro - Glorieta 2023](https://www.sportident.co.uk/results/RevolutionEnduro/2023/GlorietaEnduro/)  |13th/42 Open Men and 13th Overall     |Among 5 EWS professional racers.
-[ABQ Grassroots Enduro 2023 -- Coyote](https://www.meetup.com/ambanm/events/292986152/)  |1st/50 Overall Men    |
 [ABQ Grassroots Enduro 2023 -- Lower Sandia](https://www.meetup.com/ambanm/events/293139508)  |1st/57 Overall Men    |
+[ABQ Grassroots Enduro 2023 -- Coyote](https://www.meetup.com/ambanm/events/292986152/)  |1st/50 Overall Men    |
 [True Grit MTB 100 2023](https://my.raceresult.com/234048/)|8th Overall | 0:01 from 6th - still working on the sprinting thing.
 [MBAA Enduro Hawes 2022](https://mbaaendurohawes.itsyourrace.com/ResultsMultiStage.aspx?&id=14695&y=0&st=0&cat=833&srch=)|9th Open Men| 
 [El Paso Puzzler 2022](https://www.webscorer.com/racedetails?raceid=265087&did=307667)|6th Overall| 

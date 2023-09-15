@@ -10,7 +10,7 @@ permalink: /research/
 
 Over the past decade, my research projects and interests have spanned across several subject matter areas, with the common focus of system-level emergent behavior. 
 
-Past subject of my research have included:
+Past subjects of my research have included:
 - climate modeling/analysis,
 - power grid modeling,
 - social networks,
