@@ -44,6 +44,8 @@ th, td {
 tr:hover {background-color: aquamarine;}
 
 .masthead {
+  position: fixed;
+  background: white;
   margin: 0 auto -1% auto;
   max-width: none;
   padding: 0 0;
