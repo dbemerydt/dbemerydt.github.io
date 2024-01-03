@@ -21,7 +21,7 @@ body {
   background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  width: 90%;
+  width: 98%;
   padding: 200px 0 0;  // padding-top equal to masthead height or greater
   max-width: 1080px;
 }
@@ -62,13 +62,6 @@ tr:hover {background-color: aquamarine;}
   max-width: 100%;
   padding: 0 0;
   width: 100%;
-}
-
-.text-container {
-    max-width: 800px; /* Adjust this value to your preference */
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 20px; /* Adjust the padding values to create space around text */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -148,12 +141,7 @@ strong, b {
 }
 
 img {
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  max-width: 100%;
   }
 
 // Fixes images in popup boxes from Google Translate

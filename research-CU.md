@@ -6,7 +6,7 @@ permalink: /research/
 
 ![photo](images/defense-banner.jpeg)
 
-<div class="text-container">
+
 # The view from above
 
 Over the past decade, my research projects and interests have spanned across several subject matter areas, with the common focus of system-level emergent behavior. 
@@ -25,16 +25,12 @@ Past subjects of my research have included:
 I completed a B.S. in Physics, B.S. in Statistics, and M.S. in Complex Systems at the University of Vermont. Following this, I spent four years as a research scientist in the Applied Information Sciences Center at Sandia National Laboratories, researching electrical grid resilience, Bayesian inversion for climate models, and agent-based models of misinformation adoption.
 
 In 2023, I left Sandia to pursue a PhD in Information Science at the University of Colorado in Boulder, where I currently reside. At CU, I work with Professor [Brian Keegan](https://www.brianckeegan.com/), studying the online behavior of extremist groups to develop methods of predicting and preventing real-world attacks on marginalized communities.
-</div>
 
 <p align="middle">
   <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/1.png" height="100" />
   <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/6.png" height="100" /> 
   <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/7.png" height="100" />
 </p>
-
-
-<div class="text-container">
 
 # Writing
 ## Publications 
@@ -46,13 +42,12 @@ In 2023, I left Sandia to pursue a PhD in Information Science at the University 
 - M. T. Niles, **B. F. Emery**, A. J. Reagan, P. S. Dodds, and C. M. Danforth, “[Social media usage patterns during natural hazards](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210484),” *PLOS ONE*, vol. 14, no. 2, p. e0210484, 2019.
 
 
-
 ## White Papers
 
 - [A Model of Narrative Reinforcement on a Dual-Layer Social Network](https://www.osti.gov/biblio/1894003/)
 - [A Projected Network Model of Online Disinformation Cascades](https://www.osti.gov/biblio/1822318/)
 - [Sensitivity and Uncertainty Analysis of Generator Failures under Extreme Temperature Scenarios in Power Systems](https://www.osti.gov/biblio/1808746/)
-</div>
+
 
 
 <!-- Benjamin Freixas Emery is a first-year PhD student in the Information Science Department at CU Boulder. His research, advised by Brian Keegan, surrounds the flow of conspiratorial misinformation, the strategies used to spread such misinformation and the prediction of action based on it. 
