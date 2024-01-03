@@ -64,6 +64,13 @@ tr:hover {background-color: aquamarine;}
   width: 100%;
 }
 
+.text-container {
+    max-width: 800px; /* Adjust this value to your preference */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px; /* Adjust the padding values to create space around text */
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -141,7 +148,12 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
 // Fixes images in popup boxes from Google Translate
