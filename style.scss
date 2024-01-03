@@ -21,9 +21,7 @@ body {
   background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  width: 98%;
   padding: 200px 0 0;  // padding-top equal to masthead height or greater
-  max-width: 1080px;
 }
 
 table {
@@ -50,18 +48,18 @@ tr:hover {background-color: aquamarine;}
   top: 0;
   position: fixed;
   background: white;
-  margin: 0 0;
+  margin: 0 auto 0 auto;
   max-width: none;
   padding: 0 0;
-  width: 100%;
+  width: 98%;
   height: 200px;
 }
 
 .container {
-  margin: 0 0;
-  max-width: 100%;
+  margin: 0 auto;
+  max-width: 1080px;
   padding: 0 0;
-  width: 100%;
+  width: 98%;
 }
 
 h1, h2, h3, h4, h5, h6 {
