@@ -172,7 +172,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .masthead {
@@ -186,7 +186,7 @@ img {
 /*  height: 200px;*/
   padding: 20px 0;
   border-bottom: 1px solid $darkGray;
-  opacity: 0.8;
+  opacity: 0.9;
 
   @include mobile {
     text-align: center;
