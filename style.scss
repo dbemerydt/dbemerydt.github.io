@@ -21,7 +21,7 @@ body {
   background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  padding: auto 0 0;  // padding-top equal to masthead height or greater
+  padding: 100px 0 0;  // padding-top equal to masthead height or greater
 }
 
 table {
@@ -186,7 +186,7 @@ img {
 /*  height: 200px;*/
   padding: 20px 0;
   border-bottom: 1px solid $darkGray;
-  opacity: 0.9;
+  opacity: 0.95;
 
   @include mobile {
     text-align: center;
