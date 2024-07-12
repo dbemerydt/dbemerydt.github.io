@@ -48,6 +48,10 @@ In 2023, I left Sandia to pursue a PhD in Information Science at the University 
 - [A Projected Network Model of Online Disinformation Cascades](https://www.osti.gov/biblio/1822318/)
 - [Sensitivity and Uncertainty Analysis of Generator Failures under Extreme Temperature Scenarios in Power Systems](https://www.osti.gov/biblio/1808746/)
 
+# Speaking
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJnC4gAXTDA?si=c4L6V5oy2AfHExM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/945Ff1raFg0?si=hxNScAjzs1Y-JyYp&amp;start=360" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 <!-- Benjamin Freixas Emery is a first-year PhD student in the Information Science Department at CU Boulder. His research, advised by Brian Keegan, surrounds the flow of conspiratorial misinformation, the strategies used to spread such misinformation and the prediction of action based on it. 
