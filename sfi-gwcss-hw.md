@@ -54,6 +54,7 @@ Consider the simple example of three American college students. Student 0 return
 
 <!-- :-------------------------:|:-------------------------:
 ![](three-nodes.png)  |  ![](three-nodes-1.png) -->
+
 |  |                                        |
 :-----------:|:------------------------------------------------------:
 |<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes.png" alt="drawing" width="200" class=/>|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes-1.png" alt="drawing" width="200" class=/>|
@@ -73,6 +74,7 @@ To capture these heuristics, we define a simple model with the following propert
 - A norm is coded as edge attribute with the possible values {0,1}, where 0 indicates the old norm and 1 indicates the new.
 
 - We define two parameters:
+
 | parameter | interpretation                                       |
 |-----------|------------------------------------------------------|
 | $\phi$         | preference for reflecting behavior in an interaction |
