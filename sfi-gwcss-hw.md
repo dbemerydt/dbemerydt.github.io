@@ -52,11 +52,9 @@ Because of this, we model norms as continually updating edge attributes.
 Consider the simple example of three American college students. Student 0 returns from study abroad in France and begins greeting their friends with two kisses, as was customary in their previous country of residence. We denote this change in expression of a norm by changing the respective edges to red.
 
 
-<!-- :-------------------------:|:-------------------------:
-![](three-nodes.png)  |  ![](three-nodes-1.png) -->
 
 |  |                                        |
-:-----------:|:------------------------------------------------------:
+|-----------|------------------------------------------------------|
 |<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes.png" alt="drawing" width="200" class=/>|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes-1.png" alt="drawing" width="200" class=/>|
 
 
@@ -64,9 +62,10 @@ Consider the simple example of three American college students. Student 0 return
 Students 1 and 2 may or may not reciprocate this behavior to Student 0, but they are even less likely to start exhibiting this norm change with each other.
 
 |  |                                        |
-:-----------:|:------------------------------------------------------:
+|-----------|------------------------------------------------------|
 |<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes-2.png" alt="drawing" width="200" class=/>|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes-3.png" alt="drawing" width="200" class=/>|
-<!-- <img src="three-nodes-2.png" alt="drawing" width="400"/><img src="three-nodes-3.png" alt="drawing" width="400"/> -->
+
+
 
 #### The model
 
@@ -111,7 +110,7 @@ We consider two initial condition cases where a subset of 10 nodes is selected a
 We consider the simulation to have ended when a timestep passes with no changes. The final proportion of adoption over all edges is shown for each parameter value-pair in the heatmaps below.
 
 |  |                                        |
-:-----------:|:------------------------------------------------------:
+|-----------|------------------------------------------------------|
 |<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/heatmap-randseed.png" alt="drawing" width="400"/>|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/heatmap-blockseed.png" alt="drawing" width="400"/>|
 
 In both experiments, we have three major regions. The bottom-left triangle indicates that for sufficiently low values of both $\theta$ and $\phi$, the new norm necessarily spreads to the entire network. The shallowness of the triangle shows that for low enough $\theta$, we reach full saturation for nearly all values of $\phi$. The upper-right triangle indicates that high-$\theta$ low $\phi$ pairs result in the nearly everyone returning to the old norm. The third major region, bound by the right boundary and diagonals traversing upward and downward to the left, is the region where the new norm doesn't spread much farther than the initial seed.
