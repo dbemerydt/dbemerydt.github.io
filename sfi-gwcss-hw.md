@@ -56,7 +56,7 @@ Consider the simple example of three American college students. Student 0 return
 ![](three-nodes.png)  |  ![](three-nodes-1.png) -->
 |  |                                        |
 :-----------:|:------------------------------------------------------:
-|<img src="images/three-nodes.png" alt="drawing" width="200" class=/>|<img src="images/three-nodes-1.png" alt="drawing" width="200" class=/>|
+|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes.png" alt="drawing" width="200" class=/>|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes-1.png" alt="drawing" width="200" class=/>|
 
 
 
@@ -64,7 +64,7 @@ Students 1 and 2 may or may not reciprocate this behavior to Student 0, but they
 
 |  |                                        |
 :-----------:|:------------------------------------------------------:
-|<img src="images/three-nodes-2.png" alt="drawing" width="200" class=/>|<img src="images/three-nodes-3.png" alt="drawing" width="200" class=/>|
+|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes-2.png" alt="drawing" width="200" class=/>|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/three-nodes-3.png" alt="drawing" width="200" class=/>|
 <!-- <img src="three-nodes-2.png" alt="drawing" width="400"/><img src="three-nodes-3.png" alt="drawing" width="400"/> -->
 
 #### The model
@@ -88,7 +88,7 @@ Here's an example of how this may play out on a familiar empirical social networ
 
 |                                          |
 |-----------------------------------------------------------------|
-|<img src="images/animated-schematic.gif" alt="animation" width="700"/>|
+|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/animated-schematic.gif" alt="animation" width="700"/>|
 
 
 #### Experimental results
@@ -110,7 +110,7 @@ We consider the simulation to have ended when a timestep passes with no changes.
 
 |  |                                        |
 :-----------:|:------------------------------------------------------:
-|<img src="images/heatmap-randseed.png" alt="drawing" width="400"/>|<img src="images/heatmap-blockseed.png" alt="drawing" width="400"/>|
+|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/heatmap-randseed.png" alt="drawing" width="400"/>|<img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/heatmap-blockseed.png" alt="drawing" width="400"/>|
 
 In both experiments, we have three major regions. The bottom-left triangle indicates that for sufficiently low values of both $\theta$ and $\phi$, the new norm necessarily spreads to the entire network. The shallowness of the triangle shows that for low enough $\theta$, we reach full saturation for nearly all values of $\phi$. The upper-right triangle indicates that high-$\theta$ low $\phi$ pairs result in the nearly everyone returning to the old norm. The third major region, bound by the right boundary and diagonals traversing upward and downward to the left, is the region where the new norm doesn't spread much farther than the initial seed.
 
