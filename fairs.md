@@ -3,7 +3,9 @@ layout: page
 title: 
 permalink: /fairs/
 ---
-# **FaIRS** -- _Free food and Infosci Research Student seminars_.
+
+# FaIRS -- _Free food and Infosci Research Student seminars_.
+
 ![photo](images/fairs-banner.jpg)
 
 
