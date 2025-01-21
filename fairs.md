@@ -27,6 +27,6 @@ TBD| 01-30|
 
 “You shouldn’t have to initialize a desk.” - Matt
 
-![photo](images/fairs-lower.jpg)
+![photo](images/fairs-lower.JPG)
 
 
