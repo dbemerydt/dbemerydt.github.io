@@ -21,8 +21,8 @@ Or something like that! A few times a semester, students in the greater INFO com
 
 |__Presenter__|__Date__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
-Elizabeth Mckinnie| 2025-02-05| 
-TBD| 2025-03-05|
+Elizabeth Mckinnie| 2025-02-04| 
+TBD| 2025-03-04|
 TBD| 2025-04-08|
 TBD| 2025-04-29| Pending sufficient funds.
 
