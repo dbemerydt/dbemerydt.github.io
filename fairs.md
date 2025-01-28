@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 
+title: FaIRS -- Free food and Infosci Research Student symposia 🎡.
 permalink: /fairs/
 ---
 
-# **FaIRS** -- _Free food and Infosci Research Student symposia_ 🎡.
 
 ![photo](images/fairs-lower.JPG)
+
+
 
 
 Or something like that! A few times a semester, students in the greater INFO community can come learn about someone's research, eat free lunch, and support each other. 
