@@ -4,7 +4,7 @@ title: FaIRS
 permalink: /fairs/
 ---
 
-# Free food and Infosci Research Student symposia 🎡.
+# _Free food and Infosci Research Student symposia_ 🎡.
 
 ![photo](images/fairs-lower.JPG)
 
@@ -24,6 +24,7 @@ Or something like that! A few times a semester, students in the greater INFO com
 Elizabeth Mckinnie| 2025-02-05| 
 TBD| 2025-03-05|
 TBD| 2025-04-08|
+TBD| 2025-04-29| Pending sufficient funds.
 
 
  
