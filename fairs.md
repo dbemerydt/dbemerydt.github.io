@@ -5,12 +5,13 @@ permalink: /fairs/
 ---
 
 
-![photo](images/fairs-banner.jpg)
+![photo](images/fairs-lower.jpg)
 
-# **FaIRS** -- _Free food and Infosci Research Student seminars_.
+# **FaIRS** -- _Free food and Infosci Research Student symposia_.
 
 Or something like that! A few times a semester, students in the greater INFO community can come learn about someone's research, eat free lunch, and support each other. 
-<!-- I'm an interdisciplinary off-road cyclist and racer. Interdisciplinary because every year or so I have an identity crisis about which type of racing I want to do, and off-road because I like being in the trees or on the desert rocks. I've been racing endurance events since middle school circa 2007, and gravity events since college in 2012. -->
+
+<!-- Ask Amber when Casey's lab meeting is, ask Crissy about garage / labs -->
 
 
 ## **Spring 2025 schedule**
@@ -18,14 +19,21 @@ Or something like that! A few times a semester, students in the greater INFO com
 
 |__Presenter__|__Date__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
-TBD| 01-30| 
+TBD| 02-05| 
+TBD| 03-05|
+TBD| 04-08|
+
 
  
 ## **Past events**
 
 |__Presenter__|__Date__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
-TBD| 01-30| 
+Katy Weathington | 2024-12-05|
+Temi Olorunsogo |  2024-05-01|
+Matt Nicholson | 2024-04-03|
+Shamika Klassen | 2024-03-05|
+Ben Emery | 2023-11-30|
  
 
 ## **Testimonials**
@@ -36,6 +44,6 @@ TBD| 01-30|
 
 “You shouldn’t have to initialize a desk.” - Matt
 
-![photo](images/fairs-lower.JPG)
+![photo](images/fairs-banner.JPG)
 
 
