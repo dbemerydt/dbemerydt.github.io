@@ -5,7 +5,7 @@ permalink: /fairs/
 ---
 
 
-![photo](images/fairs-lower.jpg)
+![photo](images/fairs-lower.JPG)
 
 # **FaIRS** -- _Free food and Infosci Research Student symposia_.
 
@@ -44,6 +44,6 @@ Ben Emery | 2023-11-30|
 
 “You shouldn’t have to initialize a desk.” - Matt
 
-![photo](images/fairs-banner.JPG)
+![photo](images/fairs-banner.jpg)
 
 
