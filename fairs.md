@@ -1,10 +1,10 @@
 ---
 layout: page
-title: FaIRS 
+title: FaIRS 🎡
 permalink: /fairs/
 ---
 
-# _Free food and Infosci Research Student symposia_ 🎡.
+# _Free food and Infosci Research Student symposia_ .
 
 ![photo](images/fairs-lower.JPG)
 
