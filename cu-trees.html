@@ -1,0 +1,92 @@
+<html>
+<head><meta charset="utf-8" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
+    <script> 
+    $(function(){
+      $("#scatter-map-type").load("scatter-map-type.html"); 
+    });
+    </script>
+    <script> 
+    $(function(){
+      $("#scatter-map-genus").load("scatter-map-genus.html"); 
+    });
+    </script> 
+    <script> 
+    $(function(){
+      $("#scatter-plot-type").load("scatter-plot-type.html"); 
+    });
+    </script>
+    <script> 
+    $(function(){
+      $("#scatter-plot-genus").load("scatter-plot-genus.html"); 
+    });
+    </script>   
+</head>
+<title>CU Trees</title>
+
+    <style>
+        body {
+            font-family: Georgia, serif;
+            margin: 50px;
+            padding: 0;
+            text-align: left;
+        }
+        p {
+            margin: 20px 25% 20px 25%;
+            font-size: 20;
+            line-height: 1.25em;
+        }
+        /*sup {
+            margin: 20px 200px 20px 200px;
+            font-size: 20;
+        }*/
+        .plot-container {
+            margin: 20px auto;
+            width: 80%;
+            max-width: 800px;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 5px;
+            background-color: #f9f9f9;
+        }
+    </style>
+
+<body>
+<h1 align="center"><i>cu/Trees: a Campus Ecosystem in Data</i></h1> 
+<p align="center">by Benjamín Freixas Emery</p>
+<p align="center">🌳🌲🌳🌲🌳🌲🌳🌲🌳🌲🌳🌲🌳🌲🌳🌲🌳🌲🌳🌲🌳🌲🌳🌲🌳</p>
+<p>Trees. We sure got a lot of 'em at the University of Colorado. But what else do we know about them? And what does that mean for me, the lowly business major who just wants to lean on a trunk with a good book? We've got some visuals to help you out with that. Let's start with some maps!</p>
+<p>For ease of navigation, you may want to move your mouse to the margin while scrolling between graphics, as scrolling with the mouse placed on a map will result in a dramatic zoom.</p>
+</body>
+
+<body>
+<div id="scatter-map-type"></div>
+</body>
+
+<p>Note that we've colored the dots by major tree type, and sized them according to canopy spread. Seems that it's mostly decidous trees here, and in the instances where we find a prickly pine or friendly fir, it's usually in a cluster of other conifers. Let's see what we can learn by getting a little more detailed with it.</p>
+
+<body>
+<div id="scatter-map-genus"></div>
+</body>
+
+<p>For this one, all the colors indicate a unique genus except for red, which includes all the least frequent genuses combined into one megacategory. While perusing, you may notice some geographical patterns, like the cluster of White Ash trees on the north side of Varsity Lake. A few paces west from there and you'll find yourself surrounded by Maples for that much needed glucose replenishment. Similarly, whiskey enthusiasts can find Juniper at an exterior corner of pretty much any academic building. Neat!</p>
+
+<p>Okay, that's is fun and all, but this is data viz, not cartography. Time to look at some geometric scaling? Perchance.</p>
+
+<body>
+<div id="scatter-plot-type"></div>
+</body>
+
+<p>Always nice to see a linear regression line that almost perfectly partitions the two classifications in your data. But I bet we can do better. I'm gonna go investigate the two most extreme residuals in this plot, and get back to you.</p>
+
+<body>
+<div id="scatter-plot-genus"></div>
+</body>
+
+<p>And there you have it - the Maples and Oaks sit on the opposite side of the fence from the Spruces, with the remaining categories sprinkling all over. And the most extreme trees in both directions both look nice (in each their own unique way). That's all I've got time for today. I hope you take some time soon to go outside and look up at some friendly giants. I'll leaf you to it! 🍂🍁 </p>
+
+</html>
