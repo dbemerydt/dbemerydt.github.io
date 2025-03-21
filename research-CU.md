@@ -30,6 +30,7 @@ In 2023, I left Sandia to pursue a PhD in Information Science at the University 
   <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/1.png" height="100" />
   <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/6.png" height="100" /> 
   <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/7.png" height="100" />
+  <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/8.png" height="100" />
 </p>
 
 # Writing
