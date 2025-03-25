@@ -36,6 +36,7 @@ In 2023, I left Sandia to pursue a PhD in Information Science at the University 
 # Writing
 ## Publications 
 
+- L. R. Orozco, A. E. Weaver, C. C. Pauli, C. J. Grassa, D. V, A. Baptista, K. White, **B. F. Emery**, N. R. M. Castro, R. F. Guerrero, B. C. Keegan, and N. C. Kane, "Unraveling Cross-Cellular Communication in Cannabis sativa Sex Determination: A Network Ontology Transcript Annotation (Nota) Analysis" *In review at Scientific Reports*, 2025.
 - A. Naugle, D. Krofcheck, C. Warrender, K. Lakkaraju, L. Swiler, S. Verzi, **B. F. Emery**, J. Murdock, M. Bernard, and V. Romero, “[What can simulation test beds teach us about social science? results of the ground truth program](https://link.springer.com/article/10.1007/s10588-021-09349-6),” *Computational and Mathematical Organization Theory*, pp. 1–22, 2022.
 - C. C. Nicholson, **B. F. Emery**, and M. T. Niles, “[Global relationships between crop diversity and nutritional stability](https://www.nature.com/articles/s41467-021-25615-2),” *Nature Communications*, vol. 12, no. 1, pp. 1–9, 2021.
 - **B. F. Emery**, M. T. Niles, C. M. Danforth, and P. S. Dodds, “[Local information sources received the most attention from Puerto Ricans during the aftermath of Hurricane Maria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251704),” *PLOS ONE*, vol. 16, no. 6, p. e0251704, 2021.
