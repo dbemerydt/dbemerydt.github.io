@@ -3,9 +3,12 @@ layout: page
 title: Welcome to the Benternet 
 ---
 
-Have a look around 🕶️🎹 
+In summary,
 
-![photo](images/benemery_eqn.jpeg)
+<p align="middle">
+  <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/benemery_eqn.jpeg" width="500" />
+</p>
+
 
 ![photo](https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/gg-2023.jpg)
 
