@@ -24,7 +24,7 @@ Past subjects of my research have included:
 
 I completed a B.S. in Physics, B.S. in Statistics, and M.S. in Complex Systems at the University of Vermont. Following this, I spent four years as a research scientist in the Applied Information Sciences Center at Sandia National Laboratories, researching electrical grid resilience, Bayesian inversion for climate models, and agent-based models of misinformation adoption.
 
-In 2023, I left Sandia to pursue a PhD in Information Science at the University of Colorado in Boulder, where I currently reside. At CU, I work with Professor [Brian Keegan](https://www.brianckeegan.com/), studying the online behavior of extremist groups to develop methods of predicting and preventing real-world attacks on marginalized communities.
+In 2023, I left Sandia to pursue a PhD in Information Science at the University of Colorado in Boulder, where I currently reside. At CU, I work with Professor [Brian Keegan](https://www.brianckeegan.com/), studying the online ecosystem of extremism, misinformation, and moral panic, from fringe message boards to mainstream media.
 
 <p align="middle">
   <img src="https://raw.githubusercontent.com/dbemerydt/dbemerydt.github.io/master/images/resume-figs/1.png" height="100" />
