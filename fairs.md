@@ -6,7 +6,7 @@ permalink: /fairs/
 
 # _Free food and Infosci Research Student symposia_ .
 
-![photo](images/fairs-lower.JPG)
+<!-- ![photo](images/fairs-lower.JPG) -->
 
 
 
@@ -16,15 +16,14 @@ Or something like that! A few times a semester, students in the greater INFO com
 <!-- Ask Amber when Casey's lab meeting is, ask Crissy about garage / labs -->
 
 
-## **Spring 2025 schedule**
+## **Fall 2025 schedule**
 
 
 |__Presenter__|__Date__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
-Elizabeth Mckinnie| 2025-02-04| 
-TBD| 2025-03-04|
-TBD| 2025-04-08|
-TBD| 2025-04-29| Pending sufficient funds.
+Josh Paup | 2025-10-23| 
+Erin Robinson | 2025-11-13|
+TBA | 2025-11-20|
 
 
  
@@ -32,6 +31,9 @@ TBD| 2025-04-29| Pending sufficient funds.
 
 |__Presenter__|__Date__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
+Elizabeth Mckinnie | 2025-02-04| 
+Samantha Dalal | 2025-03-04|
+Sid Cook | 2025-04-21|
 Katy Weathington | 2024-12|
 Temi Olorunsogo |  2024-05|
 Matt Nicholson | 2024-04|
