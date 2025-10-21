@@ -6,14 +6,13 @@ permalink: /fairs/
 
 # _Free food and Infosci Research Student symposia_ .
 
-<!-- ![photo](images/fairs-lower.JPG) -->
+![photo](images/fairs-banner.JPG)
 
 
 
 
 Or something like that! A few times a semester, students in the greater INFO community can come learn about someone's research, eat free lunch, and support each other. 
 
-<!-- Ask Amber when Casey's lab meeting is, ask Crissy about garage / labs -->
 
 
 ## **Fall 2025 schedule**
