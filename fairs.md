@@ -6,7 +6,7 @@ permalink: /fairs/
 
 # _Free food and Infosci Research Student symposia_ .
 
-![photo](../images/fairs-banner.JPG)
+![photo](images/fairs-banner.jpg)
 
 
 
@@ -30,9 +30,9 @@ TBA | 2025-11-20|
 
 |__Presenter__|__Date__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
-Elizabeth Mckinnie | 2025-02-04| 
-Samantha Dalal | 2025-03-04|
-Sid Cook | 2025-04-21|
+Sid Cook | 2025-04|
+Samantha Dalal | 2025-03|
+Elizabeth Mckinnie | 2025-02|
 Katy Weathington | 2024-12|
 Temi Olorunsogo |  2024-05|
 Matt Nicholson | 2024-04|
@@ -48,6 +48,6 @@ Ben Emery | 2023-11|
 
 “You shouldn’t have to initialize a desk.” - Matt
 
-![photo](../images/dtmf.png)
+![photo](images/dtmf.png)
 
 
