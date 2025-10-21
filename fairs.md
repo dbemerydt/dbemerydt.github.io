@@ -48,6 +48,6 @@ Ben Emery | 2023-11|
 
 “You shouldn’t have to initialize a desk.” - Matt
 
-![photo](images/fairs-banner.jpg)
+<!-- ![photo](images/dtmf.png) -->
 
 
