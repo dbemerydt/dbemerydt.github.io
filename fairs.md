@@ -21,8 +21,8 @@ Or something like that! A few times a semester, students in the greater INFO com
 |__Presenter__|__Date__|__Notes__|    
 |-------------------------|-------------------------|-----------------------|
 Josh Paup | 2025-10-23| 
-Erin Robinson | 2025-11-13|
-TBA | 2025-11-20|
+Erin Robinson | 2025-11-13| Bring any collage items you may have!
+Elizabeth McKinnie | 2025-11-20|
 
 
  
@@ -32,7 +32,7 @@ TBA | 2025-11-20|
 |-------------------------|-------------------------|-----------------------|
 Sid Cook | 2025-04|
 Samantha Dalal | 2025-03|
-Elizabeth Mckinnie | 2025-02|
+Elizabeth McKinnie | 2025-02|
 Katy Weathington | 2024-12|
 Temi Olorunsogo |  2024-05|
 Matt Nicholson | 2024-04|
